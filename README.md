@@ -5,8 +5,8 @@
 1. 团队信息
    1. 成员
       - 周陈序，alanzhou@sjtu.edu.cn，[alanzhou001](https://github.com/alanzhou001)
-      - 陈曦，whendaybreak@sjtu.edu.cn，
-      - 朱睿，jameszhu@sjtu.edu.cn,
+      - 陈曦，whendaybreak@sjtu.edu.cn，[破晓之时](https://github.com/When-DAYBREAK)
+      - 朱睿，jameszhu@sjtu.edu.cn, [JamesX](https://github.com/jameszhu-pixel-time)
    2. 团队协作
       - [Github：](https://github.com/alanzhou001/mcm2025)https://github.com/alanzhou001/mcm2025
       - [SJTU Latex：](https://latex.sjtu.edu.cn/project/678c7d2e18814cfef1a330aa)https://latex.sjtu.edu.cn/project/678c7d2e18814cfef1a330aa
