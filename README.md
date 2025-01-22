@@ -4,12 +4,13 @@
 
 1. 团队信息
    1. 成员
-      - 周陈序，alanzhou@sjtu.edu.cn，[alanzhou001](https://github.com/alanzhou001)
-      - 陈曦，whendaybreak@sjtu.edu.cn，[破晓之时](https://github.com/When-DAYBREAK)
-      - 朱睿，jameszhu@sjtu.edu.cn, [JamesX](https://github.com/jameszhu-pixel-time)
+      - 周陈序，Email: [alanzhou@sjtu.edu.cn](mailto:alanzhou@sjtu.edu.cn)，GitHub: [alanzhou001](https://github.com/alanzhou001)
+      - 陈曦，Email: [whendaybreak@sjtu.edu.cn](mailto:whendaybreak@sjtu.edu.cn)，GitHub: [破晓之时](https://github.com/When-DAYBREAK)
+      - 朱睿，Email: [jameszhu@sjtu.edu.cn](mailto:jameszhu@sjtu.edu.cn), GitHub: [JamesX](https://github.com/jameszhu-pixel-time)
+
    2. 团队协作
-      - [Github：](https://github.com/alanzhou001/mcm2025)https://github.com/alanzhou001/mcm2025
-      - [SJTU Latex：](https://latex.sjtu.edu.cn/project/678c7d2e18814cfef1a330aa)https://latex.sjtu.edu.cn/project/678c7d2e18814cfef1a330aa
+      - [Github](https://github.com/alanzhou001/mcm2025)
+      - [SJTU Latex](https://latex.sjtu.edu.cn/project/678c7d2e18814cfef1a330aa)
 
 2. 重要信息
    1. 时间：2025/01/24,6:00a.m. 至 2025/01/28,9:00p.m(**此时间必须完成论文并输出pdf！pdf最新修改时间不得晚于此时间！**). 提交ddl：2025/01/28,10:00p.m.
