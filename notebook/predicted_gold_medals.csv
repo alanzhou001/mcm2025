@@ -1,0 +1,288 @@
+Year,NOC,Actual_Gold,Predicted_Gold,NOC_Name
+1900,16,6,2,Belgium
+1900,19,0,12,Bohemia
+1900,30,1,1,Canada
+1900,84,0,0,India
+1904,7,0,3,Australia
+1904,62,0,6,France
+1904,194,76,23,United States
+1908,9,0,1,Austria
+1908,30,3,1,Canada
+1908,66,3,7,Germany
+1908,152,1,0,Russian Empire
+1908,164,1,1,South Africa
+1912,16,2,2,Belgium
+1912,59,9,10,Finland
+1912,72,1,3,Greece
+1912,123,0,4,Netherlands
+1912,164,4,0,South Africa
+1912,174,23,12,Sweden
+1920,16,14,0,Belgium
+1920,109,0,1,Luxembourg
+1920,169,0,3,Spain
+1924,9,0,0,Austria
+1924,16,3,4,Belgium
+1924,44,2,6,Denmark
+1924,70,9,9,Great Britain
+1924,126,0,0,New Zealand
+1924,174,4,9,Sweden
+1928,70,3,7,Great Britain
+1928,143,0,0,Portugal
+1932,4,3,1,ArgentinaÂ 
+1932,8,3,4,AustraliaÂ 
+1932,98,7,7,JapanÂ 
+1932,114,0,1,MexicoÂ 
+1936,7,0,5,Australia
+1936,30,1,2,Canada
+1936,59,8,6,Finland
+1936,66,38,8,Germany
+1936,70,4,5,Great Britain
+1936,113,0,1,Mexico
+1936,174,6,12,Sweden
+1936,206,0,1,Yugoslavia
+1948,7,2,5,Australia
+1948,9,1,2,Austria
+1948,42,6,4,Czechoslovakia
+1948,44,5,3,Denmark
+1948,51,2,1,Egypt
+1948,113,2,0,Mexico
+1948,141,0,1,Poland
+1948,185,0,3,Trinidad and Tobago
+1948,206,0,4,Yugoslavia
+1952,16,2,1,Belgium
+1952,44,2,2,Denmark
+1952,93,8,7,Italy
+1952,97,1,5,Japan
+1952,123,0,2,Netherlands
+1952,132,3,2,Norway
+1952,166,0,3,South Korea
+1952,176,2,2,Switzerland
+1952,194,40,40,United States
+1952,201,0,0,Venezuela
+1956,3,0,0,Argentina
+1956,7,13,5,Australia
+1956,24,1,2,Bulgaria
+1956,59,3,3,Finland
+1956,72,0,1,Greece
+1956,90,1,0,Ireland
+1960,8,8,4,AustraliaÂ 
+1960,22,0,0,BrazilÂ 
+1960,43,3,3,CzechoslovakiaÂ 
+1960,45,2,1,DenmarkÂ 
+1960,60,1,3,FinlandÂ 
+1960,61,0,4,FormosaÂ 
+1960,71,2,5,Great BritainÂ 
+1960,73,1,2,GreeceÂ 
+1960,89,0,0,IraqÂ 
+1960,94,13,7,ItalyÂ 
+1960,120,0,2,MoroccoÂ 
+1960,135,1,1,PakistanÂ 
+1960,142,4,4,PolandÂ 
+1960,168,43,24,Soviet UnionÂ 
+1964,3,0,0,Argentina
+1964,21,0,1,Brazil
+1964,42,5,1,Czechoslovakia
+1964,84,1,0,India
+1964,129,0,0,Nigeria
+1964,185,0,0,Trinidad and Tobago
+1968,21,0,1,Brazil
+1968,62,7,6,France
+1968,79,10,8,Hungary
+1968,126,1,3,New Zealand
+1968,190,0,5,Uganda
+1972,30,0,1,Canada
+1972,84,0,0,India
+1972,126,1,2,New Zealand
+1972,141,7,3,Poland
+1972,167,50,24,Soviet Union
+1972,174,4,9,Sweden
+1972,190,1,3,Uganda
+1976,39,6,5,Cuba
+1976,42,2,2,Czechoslovakia
+1976,93,2,7,Italy
+1976,113,1,0,Mexico
+1976,117,0,0,Mongolia
+1976,143,0,1,Portugal
+1976,149,4,7,Romania
+1976,205,10,13,West Germany
+1980,44,2,7,Denmark
+1980,49,47,20,East Germany
+1980,62,6,5,France
+1980,72,1,1,Greece
+1980,130,0,1,North Korea
+1980,167,80,23,Soviet Union
+1980,190,0,10,Uganda
+1980,209,1,2,Zimbabwe
+1984,29,0,3,Cameroon
+1984,34,15,11,China
+1984,44,0,1,Denmark
+1984,51,0,2,Egypt
+1984,59,4,3,Finland
+1984,90,0,1,Ireland
+1984,101,1,2,Kenya
+1984,119,2,1,Morocco
+1984,129,0,0,Nigeria
+1984,132,0,0,Norway
+1984,143,1,1,Portugal
+1984,194,83,34,United States
+1988,37,0,1,Costa Rica
+1988,44,2,2,Denmark
+1988,70,5,7,Great Britain
+1988,117,0,0,Mongolia
+1988,119,1,1,Morocco
+1988,124,0,3,Netherlands Antilles
+1988,139,0,0,Philippines
+1988,143,1,1,Portugal
+1988,149,7,3,Romania
+1988,167,55,23,Soviet Union
+1988,169,1,1,Spain
+1992,7,7,8,Australia
+1992,93,6,8,Italy
+1992,108,1,1,Lithuania
+1992,111,0,2,Malaysia
+1992,113,0,1,Mexico
+1992,123,2,6,Netherlands
+1992,132,2,2,Norway
+1992,145,0,1,Puerto Rico
+1992,146,0,0,Qatar
+1992,173,0,2,Suriname
+1996,3,0,2,Argentina
+1996,11,0,1,Azerbaijan
+1996,12,0,1,Bahamas
+1996,27,1,2,Burundi
+1996,57,1,1,FR Yugoslavia
+1996,65,0,2,Georgia
+1996,72,4,2,Greece
+1996,78,1,2,Hong Kong
+1996,97,3,8,Japan
+1996,100,3,1,Kazakhstan
+1996,122,0,1,Namibia
+1996,132,2,3,Norway
+1996,139,0,1,Philippines
+1996,149,4,4,Romania
+1996,164,3,1,South Africa
+1996,169,5,3,Spain
+2000,5,0,0,Armenia
+2000,9,2,1,Austria
+2000,16,0,2,Belgium
+2000,29,1,1,Cameroon
+2000,39,11,6,Cuba
+2000,41,2,3,Czech Republic
+2000,55,4,1,Ethiopia
+2000,62,13,11,France
+2000,65,0,6,Georgia
+2000,70,11,8,Great Britain
+2000,84,0,1,India
+2000,86,1,3,Indonesia
+2000,90,0,0,Ireland
+2000,100,3,2,Kazakhstan
+2000,156,0,2,Saudi Arabia
+2000,163,2,1,Slovenia
+2000,174,4,3,Sweden
+2004,11,1,2,Azerbaijan
+2004,15,2,2,Belarus
+2004,24,2,3,Bulgaria
+2004,53,0,2,Eritrea
+2004,55,2,2,Ethiopia
+2004,72,6,2,Greece
+2004,87,2,2,Iran
+2004,108,1,0,Lithuania
+2004,126,3,3,New Zealand
+2004,130,0,1,North Korea
+2004,149,8,5,Romania
+2004,159,0,1,Serbia and Montenegro
+2004,178,0,2,Syria
+2008,11,1,2,Azerbaijan
+2008,24,1,1,Bulgaria
+2008,39,3,6,Cuba
+2008,62,7,7,France
+2008,93,8,7,Italy
+2008,101,6,2,Kenya
+2008,108,0,0,Lithuania
+2008,113,2,2,Mexico
+2008,117,2,4,Mongolia
+2008,130,2,1,North Korea
+2008,143,1,2,Portugal
+2008,154,0,1,Samoa
+2008,160,0,1,Singapore
+2008,163,1,2,Slovenia
+2008,166,13,7,South Korea
+2008,182,2,2,Thailand
+2008,209,1,3,Zimbabwe
+2012,0,0,1,Afghanistan
+2012,2,1,1,Algeria
+2012,15,2,1,Belarus
+2012,24,0,4,Bulgaria
+2012,36,1,3,Colombia
+2012,41,4,6,Czech Republic
+2012,48,1,0,Dominican Republic
+2012,65,1,3,Georgia
+2012,70,29,6,Great Britain
+2012,87,7,0,Iran
+2012,100,3,1,Kazakhstan
+2012,113,1,0,Mexico
+2012,123,6,5,Netherlands
+2012,132,2,1,Norway
+2012,141,3,2,Poland
+2012,160,0,0,Singapore
+2012,174,1,3,Sweden
+2012,190,1,2,Uganda
+2012,191,5,3,Ukraine
+2016,2,0,0,Algeria
+2016,7,8,8,Australia
+2016,15,1,2,Belarus
+2016,21,7,4,Brazil
+2016,27,0,2,Burundi
+2016,34,26,28,China
+2016,48,0,2,Dominican Republic
+2016,58,1,2,Fiji
+2016,70,27,5,Great Britain
+2016,72,3,2,Greece
+2016,86,1,2,Indonesia
+2016,87,3,1,Iran
+2016,129,0,1,Nigeria
+2016,145,1,0,Puerto Rico
+2016,164,2,2,South Africa
+2016,169,7,7,Spain
+2016,174,2,2,Sweden
+2016,193,0,20,United Arab Emirates
+2016,201,0,6,Venezuela
+2016,203,1,0,Vietnam
+2020,11,0,0,Azerbaijan
+2020,13,0,3,Bahrain
+2020,18,1,0,Bermuda
+2020,21,7,6,Brazil
+2020,36,0,1,Colombia
+2020,51,1,1,Egypt
+2020,68,0,3,Ghana
+2020,78,1,1,Hong Kong
+2020,79,6,4,Hungary
+2020,90,2,2,Ireland
+2020,99,0,1,Jordan
+2020,116,0,13,Moldova
+2020,158,3,1,Serbia
+2024,16,3,1,Belgium
+2024,28,0,2,Cabo Verde
+2024,34,40,36,China
+2024,40,0,2,Cyprus
+2024,41,3,2,Czech Republic
+2024,55,1,1,Ethiopia
+2024,58,0,1,Fiji
+2024,74,0,2,Grenada
+2024,79,6,6,Hungary
+2024,90,4,3,Ireland
+2024,96,1,5,Jamaica
+2024,100,1,2,Kazakhstan
+2024,102,0,2,Kosovo
+2024,104,0,0,Kyrgyzstan
+2024,113,0,0,Mexico
+2024,117,0,0,Mongolia
+2024,134,1,0,Pakistan
+2024,138,0,0,Peru
+2024,139,2,0,Philippines
+2024,141,1,2,Poland
+2024,143,1,1,Portugal
+2024,145,0,0,Puerto Rico
+2024,153,1,0,Saint Lucia
+2024,182,1,0,Thailand
+2024,191,3,6,Ukraine
