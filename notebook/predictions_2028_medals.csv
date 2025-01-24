@@ -1,1051 +1,806 @@
 NOC,Year,Gold_Predicted,Silver_Predicted,Bronze_Predicted,Total_Predicted
-Afghanistan,2012,0,0,0,0
-Afghanistan,2016,0,0,0,0
-Afghanistan,2020,0,0,0,0
-Afghanistan,2024,0,0,0,0
-Afghanistan,2028,0,0,0,0
-Albania,2012,0,0,0,0
-Albania,2016,0,0,0,0
-Albania,2020,0,0,0,0
-Albania,2024,0,0,0,0
-Albania,2028,0,0,0,0
-Algeria,2012,2,0,0,2
-Algeria,2016,0,0,0,0
-Algeria,2020,0,0,0,0
-Algeria,2024,1,0,0,1
-Algeria,2028,1,0,0,1
-Argentina,2012,1,1,2,4
-Argentina,2016,0,1,2,3
-Argentina,2020,2,1,1,4
-Argentina,2024,1,1,2,4
-Argentina,2028,1,1,1,3
-ArgentinaÂ ,2012,0,0,0,0
-ArgentinaÂ ,2016,0,0,0,0
-ArgentinaÂ ,2020,0,0,0,0
-ArgentinaÂ ,2024,0,0,0,0
-ArgentinaÂ ,2028,0,0,0,0
-Armenia,2012,0,3,2,5
-Armenia,2016,1,5,3,9
-Armenia,2020,0,4,0,4
-Armenia,2024,0,5,1,6
-Armenia,2028,0,5,3,8
-Australasia,2012,0,0,0,0
-Australasia,2016,0,0,0,0
-Australasia,2020,0,0,0,0
-Australasia,2024,0,0,0,0
-Australasia,2028,0,0,0,0
-Australia,2012,16,14,16,46
-Australia,2016,15,15,19,49
-Australia,2020,13,16,16,45
-Australia,2024,14,16,14,44
-Australia,2028,16,13,17,46
-AustraliaÂ ,2012,0,0,0,0
-AustraliaÂ ,2016,0,0,0,0
-AustraliaÂ ,2020,0,0,0,0
-AustraliaÂ ,2024,0,0,0,0
-AustraliaÂ ,2028,0,0,0,0
-Austria,2012,2,1,1,4
-Austria,2016,1,2,4,7
-Austria,2020,1,1,3,5
-Austria,2024,1,1,2,4
-Austria,2028,1,1,4,6
-AustriaÂ ,2012,0,0,0,0
-AustriaÂ ,2016,0,0,0,0
-AustriaÂ ,2020,0,0,0,0
-AustriaÂ ,2024,0,0,0,0
-AustriaÂ ,2028,0,0,0,0
-Azerbaijan,2012,2,13,3,18
-Azerbaijan,2016,2,8,3,13
-Azerbaijan,2020,2,2,3,7
-Azerbaijan,2024,2,15,3,20
-Azerbaijan,2028,2,13,3,18
-Bahamas,2012,2,1,0,3
-Bahamas,2016,2,0,0,2
-Bahamas,2020,2,0,0,2
-Bahamas,2024,2,1,0,3
-Bahamas,2028,2,0,0,2
-Bahrain,2012,0,1,1,2
-Bahrain,2016,3,1,1,5
-Bahrain,2020,0,1,1,2
-Bahrain,2024,4,1,1,6
-Bahrain,2028,0,1,1,2
-Barbados,2012,0,0,0,0
-Barbados,2016,0,0,0,0
-Barbados,2020,0,0,0,0
-Barbados,2024,0,0,0,0
-Barbados,2028,0,0,0,0
-Belarus,2012,0,6,5,11
-Belarus,2016,0,3,7,10
-Belarus,2020,0,4,8,12
-Belarus,2024,0,4,10,14
-Belarus,2028,1,4,9,14
-Belgium,2012,2,1,4,7
-Belgium,2016,2,2,3,7
-Belgium,2020,3,1,4,8
-Belgium,2024,3,1,5,9
-Belgium,2028,2,1,3,6
-BelgiumÂ ,2012,0,0,0,0
-BelgiumÂ ,2016,0,0,0,0
-BelgiumÂ ,2020,0,0,0,0
-BelgiumÂ ,2024,0,0,0,0
-BelgiumÂ ,2028,0,0,0,0
-Bermuda,2012,0,0,0,0
-Bermuda,2016,0,0,0,0
-Bermuda,2020,0,0,0,0
-Bermuda,2024,0,0,0,0
-Bermuda,2028,0,0,0,0
-Bohemia,2012,0,0,0,0
-Bohemia,2016,0,0,0,0
-Bohemia,2020,0,0,0,0
-Bohemia,2024,0,0,0,0
-Bohemia,2028,0,0,0,0
-Botswana,2012,1,0,1,2
-Botswana,2016,1,1,0,2
-Botswana,2020,1,0,1,2
-Botswana,2024,1,1,0,2
-Botswana,2028,1,0,1,2
-Brazil,2012,8,7,8,23
-Brazil,2016,6,8,8,22
-Brazil,2020,4,8,10,22
-Brazil,2024,7,8,9,24
-Brazil,2028,7,8,8,23
-BrazilÂ ,2012,0,0,0,0
-BrazilÂ ,2016,0,0,0,0
-BrazilÂ ,2020,0,0,0,0
-BrazilÂ ,2024,0,0,0,0
-BrazilÂ ,2028,0,0,0,0
-British West IndiesÂ ,2012,0,0,0,0
-British West IndiesÂ ,2016,0,0,0,0
-British West IndiesÂ ,2020,0,0,0,0
-British West IndiesÂ ,2024,0,0,0,0
-British West IndiesÂ ,2028,0,0,0,0
-Bulgaria,2012,2,1,1,4
-Bulgaria,2016,3,1,1,5
-Bulgaria,2020,2,1,1,4
-Bulgaria,2024,3,1,1,5
-Bulgaria,2028,3,1,2,6
-BulgariaÂ ,2012,0,0,0,0
-BulgariaÂ ,2016,0,0,0,0
-BulgariaÂ ,2020,0,0,0,0
-BulgariaÂ ,2024,0,0,0,0
-BulgariaÂ ,2028,0,0,0,0
-Burkina Faso,2012,0,0,0,0
-Burkina Faso,2016,0,0,0,0
-Burkina Faso,2020,0,0,0,0
-Burkina Faso,2024,0,0,0,0
-Burkina Faso,2028,0,0,0,0
-Burundi,2012,0,0,0,0
-Burundi,2016,0,0,0,0
-Burundi,2020,0,0,0,0
-Burundi,2024,0,0,0,0
-Burundi,2028,0,0,0,0
-Cabo Verde,2012,0,0,0,0
-Cabo Verde,2016,0,0,0,0
-Cabo Verde,2020,0,0,0,0
-Cabo Verde,2024,0,0,0,0
-Cabo Verde,2028,0,0,0,0
-Cameroon,2012,0,0,0,0
-Cameroon,2016,0,0,0,0
-Cameroon,2020,1,0,0,1
-Cameroon,2024,1,0,1,2
-Cameroon,2028,1,0,0,1
-Canada,2012,7,5,11,23
-Canada,2016,7,7,13,27
-Canada,2020,6,6,11,23
-Canada,2024,6,5,11,22
-Canada,2028,6,6,11,23
-CanadaÂ ,2012,0,0,0,0
-CanadaÂ ,2016,0,0,0,0
-CanadaÂ ,2020,0,0,0,0
-CanadaÂ ,2024,0,0,0,0
-CanadaÂ ,2028,0,0,0,0
-Ceylon,2012,0,0,0,0
-Ceylon,2016,0,0,0,0
-Ceylon,2020,0,0,0,0
-Ceylon,2024,0,0,0,0
-Ceylon,2028,0,0,0,0
-Chile,2012,0,0,2,2
-Chile,2016,0,0,0,0
-Chile,2020,0,0,1,1
-Chile,2024,1,0,1,2
-Chile,2028,0,0,0,0
-China,2012,40,27,24,91
-China,2016,40,27,24,91
-China,2020,40,27,24,91
-China,2024,40,27,24,91
-China,2028,40,27,24,91
-Chinese Taipei,2012,1,0,5,6
-Chinese Taipei,2016,2,0,5,7
-Chinese Taipei,2020,2,0,5,7
-Chinese Taipei,2024,2,0,5,7
-Chinese Taipei,2028,2,0,5,7
-Colombia,2012,0,3,1,4
-Colombia,2016,0,3,1,4
-Colombia,2020,0,3,1,4
-Colombia,2024,0,3,1,4
-Colombia,2028,0,3,1,4
-Costa Rica,2012,1,0,2,3
-Costa Rica,2016,0,0,2,2
-Costa Rica,2020,1,0,2,3
-Costa Rica,2024,0,0,2,2
-Costa Rica,2028,1,0,2,3
-Croatia,2012,2,2,2,6
-Croatia,2016,4,2,1,7
-Croatia,2020,6,2,0,8
-Croatia,2024,4,2,2,8
-Croatia,2028,3,2,4,9
-Cuba,2012,4,3,1,8
-Cuba,2016,2,5,2,9
-Cuba,2020,2,4,4,10
-Cuba,2024,3,6,4,13
-Cuba,2028,3,6,1,10
-Cyprus,2012,0,0,0,0
-Cyprus,2016,0,0,0,0
-Cyprus,2020,0,0,0,0
-Cyprus,2024,0,0,0,0
-Cyprus,2028,0,0,0,0
-Czech Republic,2012,1,0,2,3
-Czech Republic,2016,2,0,2,4
-Czech Republic,2020,4,0,2,6
-Czech Republic,2024,1,0,2,3
-Czech Republic,2028,3,0,2,5
-Czechoslovakia,2012,2,3,7,12
-Czechoslovakia,2016,2,2,5,9
-Czechoslovakia,2020,3,3,1,7
-Czechoslovakia,2024,3,2,6,11
-Czechoslovakia,2028,2,3,6,11
-CzechoslovakiaÂ ,2012,0,0,0,0
-CzechoslovakiaÂ ,2016,0,0,0,0
-CzechoslovakiaÂ ,2020,0,0,0,0
-CzechoslovakiaÂ ,2024,0,0,0,0
-CzechoslovakiaÂ ,2028,0,0,0,0
-Denmark,2012,2,3,6,11
-Denmark,2016,2,5,4,11
-Denmark,2020,2,4,5,11
-Denmark,2024,2,3,5,10
-Denmark,2028,2,3,5,10
-DenmarkÂ ,2012,0,0,0,0
-DenmarkÂ ,2016,0,0,0,0
-DenmarkÂ ,2020,0,0,0,0
-DenmarkÂ ,2024,0,0,0,0
-DenmarkÂ ,2028,0,0,0,0
-Djibouti,2012,0,0,0,0
-Djibouti,2016,0,0,0,0
-Djibouti,2020,0,0,0,0
-Djibouti,2024,0,0,0,0
-Djibouti,2028,0,0,0,0
-Dominica,2012,0,0,0,0
-Dominica,2016,0,0,0,0
-Dominica,2020,0,0,0,0
-Dominica,2024,0,0,0,0
-Dominica,2028,0,0,0,0
-Dominican Republic,2012,1,3,2,6
-Dominican Republic,2016,1,2,1,4
-Dominican Republic,2020,0,2,0,2
-Dominican Republic,2024,0,3,0,3
-Dominican Republic,2028,1,4,0,5
-East Germany,2012,30,42,29,101
-East Germany,2016,41,34,9,84
-East Germany,2020,61,34,17,112
-East Germany,2024,68,21,15,104
-East Germany,2028,57,19,36,112
-Ecuador,2012,3,2,2,7
-Ecuador,2016,2,3,2,7
-Ecuador,2020,4,3,2,9
-Ecuador,2024,3,4,2,9
-Ecuador,2028,5,4,2,11
-Egypt,2012,1,1,1,3
-Egypt,2016,1,1,1,3
-Egypt,2020,1,1,1,3
-Egypt,2024,1,1,1,3
-Egypt,2028,1,1,1,3
-EgyptÂ ,2012,0,0,0,0
-EgyptÂ ,2016,0,0,0,0
-EgyptÂ ,2020,0,0,0,0
-EgyptÂ ,2024,0,0,0,0
-EgyptÂ ,2028,0,0,0,0
-Eritrea,2012,0,0,0,0
-Eritrea,2016,0,0,0,0
-Eritrea,2020,0,0,0,0
-Eritrea,2024,0,0,0,0
-Eritrea,2028,0,0,0,0
-Estonia,2012,1,0,0,1
-Estonia,2016,1,0,1,2
-Estonia,2020,1,0,0,1
-Estonia,2024,1,0,0,1
-Estonia,2028,1,0,0,1
-Ethiopia,2012,0,3,2,5
-Ethiopia,2016,2,2,4,8
-Ethiopia,2020,1,3,2,6
-Ethiopia,2024,2,2,1,5
-Ethiopia,2028,3,2,3,8
-EthiopiaÂ ,2012,0,0,0,0
-EthiopiaÂ ,2016,0,0,0,0
-EthiopiaÂ ,2020,0,0,0,0
-EthiopiaÂ ,2024,0,0,0,0
-EthiopiaÂ ,2028,0,0,0,0
-FR Yugoslavia,2012,0,0,0,0
-FR Yugoslavia,2016,0,0,0,0
-FR Yugoslavia,2020,0,0,0,0
-FR Yugoslavia,2024,0,0,0,0
-FR Yugoslavia,2028,0,0,0,0
-Fiji,2012,0,1,1,2
-Fiji,2016,0,1,0,1
-Fiji,2020,0,1,1,2
-Fiji,2024,0,1,0,1
-Fiji,2028,0,1,1,2
-Finland,2012,1,0,2,3
-Finland,2016,1,0,1,2
-Finland,2020,1,0,1,2
-Finland,2024,0,0,1,1
-Finland,2028,0,0,1,1
-FinlandÂ ,2012,0,0,0,0
-FinlandÂ ,2016,0,0,0,0
-FinlandÂ ,2020,0,0,0,0
-FinlandÂ ,2024,0,0,0,0
-FinlandÂ ,2028,0,0,0,0
-FormosaÂ ,2012,0,0,0,0
-FormosaÂ ,2016,0,0,0,0
-FormosaÂ ,2020,0,0,0,0
-FormosaÂ ,2024,0,0,0,0
-FormosaÂ ,2028,0,0,0,0
-France,2012,9,13,12,34
-France,2016,13,23,15,51
-France,2020,11,10,13,34
-France,2024,12,25,18,55
-France,2028,14,14,14,42
-FranceÂ ,2012,0,0,0,0
-FranceÂ ,2016,0,0,0,0
-FranceÂ ,2020,0,0,0,0
-FranceÂ ,2024,0,0,0,0
-FranceÂ ,2028,0,0,0,0
-Gabon,2012,0,0,0,0
-Gabon,2016,0,0,0,0
-Gabon,2020,0,0,0,0
-Gabon,2024,0,0,0,0
-Gabon,2028,0,0,0,0
-Georgia,2012,6,3,6,15
-Georgia,2016,4,3,1,8
-Georgia,2020,4,3,2,9
-Georgia,2024,4,3,3,10
-Georgia,2028,4,3,5,12
-Germany,2012,12,10,10,32
-Germany,2016,12,11,10,33
-Germany,2020,11,10,10,31
-Germany,2024,13,11,8,32
-Germany,2028,11,10,9,30
-GermanyÂ ,2012,0,0,0,0
-GermanyÂ ,2016,0,0,0,0
-GermanyÂ ,2020,0,0,0,0
-GermanyÂ ,2024,0,0,0,0
-GermanyÂ ,2028,0,0,0,0
-Ghana,2012,0,0,1,1
-Ghana,2016,0,0,1,1
-Ghana,2020,0,0,1,1
-Ghana,2024,0,0,1,1
-Ghana,2028,0,0,1,1
-GhanaÂ ,2012,0,0,0,0
-GhanaÂ ,2016,0,0,0,0
-GhanaÂ ,2020,0,0,0,0
-GhanaÂ ,2024,0,0,0,0
-GhanaÂ ,2028,0,0,0,0
-Great Britain,2012,11,16,21,48
-Great Britain,2016,12,17,23,52
-Great Britain,2020,16,17,21,54
-Great Britain,2024,20,20,20,60
-Great Britain,2028,21,19,21,61
-Great BritainÂ ,2012,0,0,0,0
-Great BritainÂ ,2016,0,0,0,0
-Great BritainÂ ,2020,0,0,0,0
-Great BritainÂ ,2024,0,0,0,0
-Great BritainÂ ,2028,0,0,0,0
-Greece,2012,2,0,6,8
-Greece,2016,1,0,5,6
-Greece,2020,1,0,6,7
-Greece,2024,2,0,5,7
-Greece,2028,1,0,5,6
-GreeceÂ ,2012,0,0,0,0
-GreeceÂ ,2016,0,0,0,0
-GreeceÂ ,2020,0,0,0,0
-GreeceÂ ,2024,0,0,0,0
-GreeceÂ ,2028,0,0,0,0
-Grenada,2012,0,1,2,3
-Grenada,2016,0,0,1,1
-Grenada,2020,0,0,0,0
-Grenada,2024,0,1,0,1
-Grenada,2028,0,0,1,1
-Guatemala,2012,0,0,0,0
-Guatemala,2016,0,0,0,0
-Guatemala,2020,0,0,0,0
-Guatemala,2024,0,0,0,0
-Guatemala,2028,0,0,0,0
-Guyana,2012,0,0,0,0
-Guyana,2016,0,0,0,0
-Guyana,2020,0,0,0,0
-Guyana,2024,0,0,0,0
-Guyana,2028,0,0,0,0
-Haiti,2012,0,0,0,0
-Haiti,2016,0,0,0,0
-Haiti,2020,0,0,0,0
-Haiti,2024,0,0,0,0
-Haiti,2028,0,0,0,0
-Hong Kong,2012,2,1,1,4
-Hong Kong,2016,1,0,0,1
-Hong Kong,2020,0,2,1,3
-Hong Kong,2024,0,0,2,2
-Hong Kong,2028,1,1,3,5
-Hungary,2012,6,5,6,17
-Hungary,2016,6,6,6,18
-Hungary,2020,6,7,6,19
-Hungary,2024,6,7,6,19
-Hungary,2028,6,6,6,18
-HungaryÂ ,2012,0,0,0,0
-HungaryÂ ,2016,0,0,0,0
-HungaryÂ ,2020,0,0,0,0
-HungaryÂ ,2024,0,0,0,0
-HungaryÂ ,2028,0,0,0,0
-Iceland,2012,0,1,0,1
-Iceland,2016,0,0,1,1
-Iceland,2020,0,0,1,1
-Iceland,2024,0,1,0,1
-Iceland,2028,0,1,0,1
-Independent Olympic Athletes,2012,0,0,0,0
-Independent Olympic Athletes,2016,0,0,0,0
-Independent Olympic Athletes,2020,0,0,0,0
-Independent Olympic Athletes,2024,0,0,0,0
-Independent Olympic Athletes,2028,0,0,0,0
-Independent Olympic Participants,2012,0,0,0,0
-Independent Olympic Participants,2016,0,0,0,0
-Independent Olympic Participants,2020,0,0,0,0
-Independent Olympic Participants,2024,0,0,0,0
-Independent Olympic Participants,2028,0,0,0,0
-India,2012,0,2,3,5
-India,2016,0,1,4,5
-India,2020,0,1,6,7
-India,2024,0,1,4,5
-India,2028,0,1,5,6
-IndiaÂ ,2012,0,0,0,0
-IndiaÂ ,2016,0,0,0,0
-IndiaÂ ,2020,0,0,0,0
-IndiaÂ ,2024,0,0,0,0
-IndiaÂ ,2028,0,0,0,0
-Indonesia,2012,1,0,1,2
-Indonesia,2016,2,0,1,3
-Indonesia,2020,1,0,1,2
-Indonesia,2024,1,0,1,2
-Indonesia,2028,1,0,1,2
-Iran,2012,4,1,4,9
-Iran,2016,2,4,3,9
-Iran,2020,3,4,4,11
-Iran,2024,3,3,3,9
-Iran,2028,3,4,3,10
-IranÂ ,2012,0,0,0,0
-IranÂ ,2016,0,0,0,0
-IranÂ ,2020,0,0,0,0
-IranÂ ,2024,0,0,0,0
-IranÂ ,2028,0,0,0,0
-IraqÂ ,2012,0,0,0,0
-IraqÂ ,2016,0,0,0,0
-IraqÂ ,2020,0,0,0,0
-IraqÂ ,2024,0,0,0,0
-IraqÂ ,2028,0,0,0,0
-Ireland,2012,1,2,1,4
-Ireland,2016,1,1,3,5
-Ireland,2020,1,1,2,4
-Ireland,2024,0,1,1,2
-Ireland,2028,2,0,3,5
-IrelandÂ ,2012,0,0,0,0
-IrelandÂ ,2016,0,0,0,0
-IrelandÂ ,2020,0,0,0,0
-IrelandÂ ,2024,0,0,0,0
-IrelandÂ ,2028,0,0,0,0
-Israel,2012,1,5,1,7
-Israel,2016,1,5,1,7
-Israel,2020,1,5,1,7
-Israel,2024,1,5,1,7
-Israel,2028,1,5,1,7
-Italy,2012,10,13,14,37
-Italy,2016,9,12,15,36
-Italy,2020,10,13,14,37
-Italy,2024,10,13,13,36
-Italy,2028,10,13,15,38
-ItalyÂ ,2012,0,0,0,0
-ItalyÂ ,2016,0,0,0,0
-ItalyÂ ,2020,0,0,0,0
-ItalyÂ ,2024,0,0,0,0
-ItalyÂ ,2028,0,0,0,0
-Ivory Coast,2012,1,0,1,2
-Ivory Coast,2016,0,0,1,1
-Ivory Coast,2020,0,0,1,1
-Ivory Coast,2024,1,0,1,2
-Ivory Coast,2028,0,0,1,1
-Jamaica,2012,2,1,3,6
-Jamaica,2016,1,1,4,6
-Jamaica,2020,1,2,2,5
-Jamaica,2024,3,2,4,9
-Jamaica,2028,2,1,2,5
-Japan,2012,16,13,13,42
-Japan,2016,18,16,8,42
-Japan,2020,24,12,10,46
-Japan,2024,21,18,12,51
-Japan,2028,19,14,13,46
-JapanÂ ,2012,0,0,0,0
-JapanÂ ,2016,0,0,0,0
-JapanÂ ,2020,0,0,0,0
-JapanÂ ,2024,0,0,0,0
-JapanÂ ,2028,0,0,0,0
-Jordan,2012,0,1,1,2
-Jordan,2016,0,1,0,1
-Jordan,2020,0,1,1,2
-Jordan,2024,0,1,0,1
-Jordan,2028,0,1,1,2
-Kazakhstan,2012,1,3,3,7
-Kazakhstan,2016,0,0,1,1
-Kazakhstan,2020,0,2,2,4
-Kazakhstan,2024,0,1,8,9
-Kazakhstan,2028,0,1,9,10
-Kenya,2012,6,5,4,15
-Kenya,2016,3,6,2,11
-Kenya,2020,6,3,4,13
-Kenya,2024,4,3,4,11
-Kenya,2028,4,5,3,12
-Kosovo,2012,2,1,1,4
-Kosovo,2016,0,1,1,2
-Kosovo,2020,1,1,1,3
-Kosovo,2024,1,1,1,3
-Kosovo,2028,1,1,1,3
-Kuwait,2012,0,0,1,1
-Kuwait,2016,0,0,1,1
-Kuwait,2020,0,0,1,1
-Kuwait,2024,0,0,1,1
-Kuwait,2028,0,0,1,1
-Kyrgyzstan,2012,0,1,2,3
-Kyrgyzstan,2016,0,0,4,4
-Kyrgyzstan,2020,0,0,2,2
-Kyrgyzstan,2024,0,1,4,5
-Kyrgyzstan,2028,0,2,3,5
-Latvia,2012,1,0,1,2
-Latvia,2016,1,1,1,3
-Latvia,2020,1,1,1,3
-Latvia,2024,1,0,1,2
-Latvia,2028,1,0,1,2
-LatviaÂ ,2012,0,0,0,0
-LatviaÂ ,2016,0,0,0,0
-LatviaÂ ,2020,0,0,0,0
-LatviaÂ ,2024,0,0,0,0
-LatviaÂ ,2028,0,0,0,0
-Lebanon,2012,0,0,0,0
-Lebanon,2016,0,0,1,1
-Lebanon,2020,0,0,0,0
-Lebanon,2024,0,0,1,1
-Lebanon,2028,0,0,0,0
-Lithuania,2012,0,3,2,5
-Lithuania,2016,0,0,2,2
-Lithuania,2020,0,1,2,3
-Lithuania,2024,0,1,2,3
-Lithuania,2028,0,2,2,4
-Luxembourg,2012,0,1,0,1
-Luxembourg,2016,1,0,0,1
-Luxembourg,2020,0,1,0,1
-Luxembourg,2024,1,0,0,1
-Luxembourg,2028,0,1,0,1
-Macedonia,2012,0,0,0,0
-Macedonia,2016,0,0,0,0
-Macedonia,2020,0,0,0,0
-Macedonia,2024,0,0,0,0
-Macedonia,2028,0,0,0,0
-Malaysia,2012,0,2,1,3
-Malaysia,2016,0,1,1,2
-Malaysia,2020,0,3,1,4
-Malaysia,2024,0,2,0,2
-Malaysia,2028,0,0,1,1
-Mauritius,2012,0,0,0,0
-Mauritius,2016,0,0,0,0
-Mauritius,2020,0,0,0,0
-Mauritius,2024,0,0,0,0
-Mauritius,2028,0,0,0,0
-Mexico,2012,0,2,3,5
-Mexico,2016,1,2,4,7
-Mexico,2020,0,2,2,4
-Mexico,2024,0,2,4,6
-Mexico,2028,0,2,3,5
-MexicoÂ ,2012,0,0,0,0
-MexicoÂ ,2016,0,0,0,0
-MexicoÂ ,2020,0,0,0,0
-MexicoÂ ,2024,0,0,0,0
-MexicoÂ ,2028,0,0,0,0
-Mixed team,2012,8,5,6,19
-Mixed team,2016,2,1,1,4
-Mixed team,2020,8,5,6,19
-Mixed team,2024,2,1,1,4
-Mixed team,2028,8,5,6,19
-Moldova,2012,0,1,3,4
-Moldova,2016,0,0,3,3
-Moldova,2020,0,0,3,3
-Moldova,2024,0,1,3,4
-Moldova,2028,0,1,3,4
-Mongolia,2012,1,1,1,3
-Mongolia,2016,1,2,1,4
-Mongolia,2020,0,2,3,5
-Mongolia,2024,0,1,1,2
-Mongolia,2028,0,1,2,3
-Montenegro,2012,0,0,0,0
-Montenegro,2016,0,0,0,0
-Montenegro,2020,0,0,0,0
-Montenegro,2024,0,0,0,0
-Montenegro,2028,0,0,0,0
-Morocco,2012,1,0,1,2
-Morocco,2016,1,0,1,2
-Morocco,2020,1,0,1,2
-Morocco,2024,1,0,1,2
-Morocco,2028,1,0,1,2
-MoroccoÂ ,2012,0,0,0,0
-MoroccoÂ ,2016,0,0,0,0
-MoroccoÂ ,2020,0,0,0,0
-MoroccoÂ ,2024,0,0,0,0
-MoroccoÂ ,2028,0,0,0,0
-Mozambique,2012,0,0,0,0
-Mozambique,2016,0,0,0,0
-Mozambique,2020,0,0,0,0
-Mozambique,2024,0,0,0,0
-Mozambique,2028,0,0,0,0
-Namibia,2012,0,1,0,1
-Namibia,2016,0,1,0,1
-Namibia,2020,0,1,0,1
-Namibia,2024,0,1,0,1
-Namibia,2028,0,1,0,1
-Netherlands,2012,12,7,14,33
-Netherlands,2016,12,8,13,33
-Netherlands,2020,12,8,13,33
-Netherlands,2024,13,9,12,34
-Netherlands,2028,11,8,12,31
-Netherlands Antilles,2012,0,0,0,0
-Netherlands Antilles,2016,0,0,0,0
-Netherlands Antilles,2020,0,0,0,0
-Netherlands Antilles,2024,0,0,0,0
-Netherlands Antilles,2028,0,0,0,0
-NetherlandsÂ ,2012,0,0,0,0
-NetherlandsÂ ,2016,0,0,0,0
-NetherlandsÂ ,2020,0,0,0,0
-NetherlandsÂ ,2024,0,0,0,0
-NetherlandsÂ ,2028,0,0,0,0
-New Zealand,2012,8,8,4,20
-New Zealand,2016,8,5,5,18
-New Zealand,2020,9,5,4,18
-New Zealand,2024,9,6,6,21
-New Zealand,2028,9,4,4,17
-New ZealandÂ ,2012,0,0,0,0
-New ZealandÂ ,2016,0,0,0,0
-New ZealandÂ ,2020,0,0,0,0
-New ZealandÂ ,2024,0,0,0,0
-New ZealandÂ ,2028,0,0,0,0
-Niger,2012,0,0,0,0
-Niger,2016,0,0,0,0
-Niger,2020,0,0,0,0
-Niger,2024,0,0,0,0
-Niger,2028,0,0,0,0
-Nigeria,2012,2,0,1,3
-Nigeria,2016,1,1,2,4
-Nigeria,2020,0,0,0,0
-Nigeria,2024,0,0,1,1
-Nigeria,2028,0,0,2,2
-North Korea,2012,0,0,2,2
-North Korea,2016,0,0,2,2
-North Korea,2020,0,0,2,2
-North Korea,2024,0,0,2,2
-North Korea,2028,0,0,3,3
-North Macedonia,2012,0,0,0,0
-North Macedonia,2016,0,0,0,0
-North Macedonia,2020,0,0,0,0
-North Macedonia,2024,0,0,0,0
-North Macedonia,2028,0,0,0,0
-Norway,2012,3,3,2,8
-Norway,2016,3,0,3,6
-Norway,2020,1,1,2,4
-Norway,2024,3,2,3,8
-Norway,2028,4,1,2,7
-NorwayÂ ,2012,0,0,0,0
-NorwayÂ ,2016,0,0,0,0
-NorwayÂ ,2020,0,0,0,0
-NorwayÂ ,2024,0,0,0,0
-NorwayÂ ,2028,0,0,0,0
-Pakistan,2012,1,0,0,1
-Pakistan,2016,1,0,0,1
-Pakistan,2020,1,0,0,1
-Pakistan,2024,1,0,0,1
-Pakistan,2028,1,0,0,1
-PakistanÂ ,2012,0,0,0,0
-PakistanÂ ,2016,0,0,0,0
-PakistanÂ ,2020,0,0,0,0
-PakistanÂ ,2024,0,0,0,0
-PakistanÂ ,2028,0,0,0,0
-Panama,2012,1,1,0,2
-Panama,2016,0,1,0,1
-Panama,2020,1,1,0,2
-Panama,2024,0,1,0,1
-Panama,2028,1,1,0,2
-Paraguay,2012,0,0,0,0
-Paraguay,2016,0,0,0,0
-Paraguay,2020,0,0,0,0
-Paraguay,2024,0,0,0,0
-Paraguay,2028,0,0,0,0
-Peru,2012,0,0,1,1
-Peru,2016,0,0,1,1
-Peru,2020,0,1,1,2
-Peru,2024,0,1,1,2
-Peru,2028,0,1,1,2
-Philippines,2012,2,0,1,3
-Philippines,2016,3,0,0,3
-Philippines,2020,3,0,1,4
-Philippines,2024,3,0,2,5
-Philippines,2028,3,0,1,4
-PhilippinesÂ ,2012,0,0,0,0
-PhilippinesÂ ,2016,0,0,0,0
-PhilippinesÂ ,2020,0,0,0,0
-PhilippinesÂ ,2024,0,0,0,0
-PhilippinesÂ ,2028,0,0,0,0
-Poland,2012,2,3,4,9
-Poland,2016,2,4,5,11
-Poland,2020,2,4,5,11
-Poland,2024,3,4,4,11
-Poland,2028,2,3,5,10
-PolandÂ ,2012,0,0,0,0
-PolandÂ ,2016,0,0,0,0
-PolandÂ ,2020,0,0,0,0
-PolandÂ ,2024,0,0,0,0
-PolandÂ ,2028,0,0,0,0
-Portugal,2012,1,2,0,3
-Portugal,2016,1,1,0,2
-Portugal,2020,1,0,1,2
-Portugal,2024,1,1,1,3
-Portugal,2028,1,1,1,3
-PortugalÂ ,2012,0,0,0,0
-PortugalÂ ,2016,0,0,0,0
-PortugalÂ ,2020,0,0,0,0
-PortugalÂ ,2024,0,0,0,0
-PortugalÂ ,2028,0,0,0,0
-Puerto Rico,2012,0,1,2,3
-Puerto Rico,2016,1,0,0,1
-Puerto Rico,2020,1,0,0,1
-Puerto Rico,2024,0,1,2,3
-Puerto Rico,2028,0,0,2,2
-Qatar,2012,2,1,1,4
-Qatar,2016,0,1,0,1
-Qatar,2020,2,0,1,3
-Qatar,2024,0,0,1,1
-Qatar,2028,3,1,1,5
-ROC,2012,0,0,0,0
-ROC,2016,0,0,0,0
-ROC,2020,0,0,0,0
-ROC,2024,0,0,0,0
-ROC,2028,0,0,0,0
-Refugee Olympic Team,2012,0,0,0,0
-Refugee Olympic Team,2016,0,0,0,0
-Refugee Olympic Team,2020,0,0,0,0
-Refugee Olympic Team,2024,0,0,0,0
-Refugee Olympic Team,2028,0,0,0,0
-Romania,2012,3,3,0,6
-Romania,2016,2,4,1,7
-Romania,2020,2,4,0,6
-Romania,2024,2,4,0,6
-Romania,2028,2,4,0,6
-RomaniaÂ ,2012,0,0,0,0
-RomaniaÂ ,2016,0,0,0,0
-RomaniaÂ ,2020,0,0,0,0
-RomaniaÂ ,2024,0,0,0,0
-RomaniaÂ ,2028,0,0,0,0
-Russia,2012,24,5,38,67
-Russia,2016,29,14,28,71
-Russia,2020,31,8,19,58
-Russia,2024,27,0,29,56
-Russia,2028,22,7,27,56
-Russian Empire,2012,0,0,0,0
-Russian Empire,2016,0,0,0,0
-Russian Empire,2020,0,0,0,0
-Russian Empire,2024,0,0,0,0
-Russian Empire,2028,0,0,0,0
-Saint Lucia,2012,0,0,0,0
-Saint Lucia,2016,0,0,0,0
-Saint Lucia,2020,0,0,0,0
-Saint Lucia,2024,0,0,0,0
-Saint Lucia,2028,0,0,0,0
-Samoa,2012,0,0,0,0
-Samoa,2016,0,0,0,0
-Samoa,2020,0,0,0,0
-Samoa,2024,0,0,0,0
-Samoa,2028,0,0,0,0
-San Marino,2012,0,0,0,0
-San Marino,2016,0,0,0,0
-San Marino,2020,0,0,0,0
-San Marino,2024,0,0,0,0
-San Marino,2028,0,0,0,0
-Saudi Arabia,2012,0,0,0,0
-Saudi Arabia,2016,0,1,0,1
-Saudi Arabia,2020,0,0,0,0
-Saudi Arabia,2024,0,1,0,1
-Saudi Arabia,2028,0,0,0,0
-Senegal,2012,0,0,0,0
-Senegal,2016,0,0,0,0
-Senegal,2020,0,0,0,0
-Senegal,2024,0,0,0,0
-Senegal,2028,0,0,0,0
-Serbia,2012,2,4,2,8
-Serbia,2016,1,1,3,5
-Serbia,2020,0,1,4,5
-Serbia,2024,0,4,0,4
-Serbia,2028,0,1,3,4
-Serbia and Montenegro,2012,0,0,0,0
-Serbia and Montenegro,2016,0,0,0,0
-Serbia and Montenegro,2020,0,0,0,0
-Serbia and Montenegro,2024,0,0,0,0
-Serbia and Montenegro,2028,0,0,0,0
-Singapore,2012,0,0,1,1
-Singapore,2016,1,0,0,1
-Singapore,2020,0,0,2,2
-Singapore,2024,0,0,0,0
-Singapore,2028,1,0,0,1
-SingaporeÂ ,2012,0,0,0,0
-SingaporeÂ ,2016,0,0,0,0
-SingaporeÂ ,2020,0,0,0,0
-SingaporeÂ ,2024,0,0,0,0
-SingaporeÂ ,2028,0,0,0,0
-Slovakia,2012,0,0,0,0
-Slovakia,2016,2,0,3,5
-Slovakia,2020,0,0,0,0
-Slovakia,2024,2,0,1,3
-Slovakia,2028,2,0,0,2
-Slovenia,2012,2,2,1,5
-Slovenia,2016,2,1,0,3
-Slovenia,2020,2,2,1,5
-Slovenia,2024,2,1,1,4
-Slovenia,2028,2,1,2,5
-South Africa,2012,2,2,2,6
-South Africa,2016,2,2,1,5
-South Africa,2020,1,4,1,6
-South Africa,2024,1,3,2,6
-South Africa,2028,2,2,1,5
-South AfricaÂ ,2012,0,0,0,0
-South AfricaÂ ,2016,0,0,0,0
-South AfricaÂ ,2020,0,0,0,0
-South AfricaÂ ,2024,0,0,0,0
-South AfricaÂ ,2028,0,0,0,0
-South Korea,2012,18,7,10,35
-South Korea,2016,17,8,10,35
-South Korea,2020,12,9,10,31
-South Korea,2024,11,8,10,29
-South Korea,2028,14,8,10,32
-Soviet Union,2012,80,20,39,139
-Soviet Union,2016,59,52,35,146
-Soviet Union,2020,98,47,51,196
-Soviet Union,2024,90,31,59,180
-Soviet Union,2028,112,41,56,209
-Soviet UnionÂ ,2012,0,0,0,0
-Soviet UnionÂ ,2016,0,0,0,0
-Soviet UnionÂ ,2020,0,0,0,0
-Soviet UnionÂ ,2024,0,0,0,0
-Soviet UnionÂ ,2028,0,0,0,0
-Spain,2012,4,5,7,16
-Spain,2016,5,3,9,17
-Spain,2020,4,6,8,18
-Spain,2024,5,3,9,17
-Spain,2028,4,5,9,18
-SpainÂ ,2012,0,0,0,0
-SpainÂ ,2016,0,0,0,0
-SpainÂ ,2020,0,0,0,0
-SpainÂ ,2024,0,0,0,0
-SpainÂ ,2028,0,0,0,0
-Sri Lanka,2012,0,0,0,0
-Sri Lanka,2016,0,0,0,0
-Sri Lanka,2020,0,0,0,0
-Sri Lanka,2024,0,0,0,0
-Sri Lanka,2028,0,0,0,0
-Sudan,2012,0,0,0,0
-Sudan,2016,0,0,0,0
-Sudan,2020,0,0,0,0
-Sudan,2024,0,0,0,0
-Sudan,2028,0,0,0,0
-Suriname,2012,0,0,0,0
-Suriname,2016,0,0,0,0
-Suriname,2020,0,0,0,0
-Suriname,2024,0,0,0,0
-Suriname,2028,0,0,0,0
-Sweden,2012,1,3,3,7
-Sweden,2016,1,4,5,10
-Sweden,2020,2,5,2,9
-Sweden,2024,3,6,2,11
-Sweden,2028,4,5,2,11
-SwedenÂ ,2012,0,0,0,0
-SwedenÂ ,2016,0,0,0,0
-SwedenÂ ,2020,0,0,0,0
-SwedenÂ ,2024,0,0,0,0
-SwedenÂ ,2028,0,0,0,0
-Switzerland,2012,1,2,4,7
-Switzerland,2016,2,2,3,7
-Switzerland,2020,1,2,5,8
-Switzerland,2024,1,2,6,9
-Switzerland,2028,2,2,4,8
-SwitzerlandÂ ,2012,0,0,0,0
-SwitzerlandÂ ,2016,0,0,0,0
-SwitzerlandÂ ,2020,0,0,0,0
-SwitzerlandÂ ,2024,0,0,0,0
-SwitzerlandÂ ,2028,0,0,0,0
-Syria,2012,1,0,1,2
-Syria,2016,0,0,1,1
-Syria,2020,0,0,1,1
-Syria,2024,1,0,1,2
-Syria,2028,0,0,1,1
-Taiwan,2012,0,0,0,0
-Taiwan,2016,0,0,0,0
-Taiwan,2020,0,0,0,0
-Taiwan,2024,0,0,0,0
-Taiwan,2028,0,0,0,0
-Tajikistan,2012,0,0,0,0
-Tajikistan,2016,1,0,2,3
-Tajikistan,2020,0,0,1,1
-Tajikistan,2024,0,0,1,1
-Tajikistan,2028,1,0,2,3
-Tanzania,2012,0,0,0,0
-Tanzania,2016,0,0,0,0
-Tanzania,2020,0,0,0,0
-Tanzania,2024,0,0,0,0
-Tanzania,2028,0,0,0,0
-Thailand,2012,2,1,3,6
-Thailand,2016,1,3,2,6
-Thailand,2020,1,1,2,4
-Thailand,2024,2,2,3,7
-Thailand,2028,1,2,2,5
-Togo,2012,0,0,0,0
-Togo,2016,0,0,0,0
-Togo,2020,0,0,0,0
-Togo,2024,0,0,0,0
-Togo,2028,0,0,0,0
-Tonga,2012,0,0,0,0
-Tonga,2016,0,0,0,0
-Tonga,2020,0,0,0,0
-Tonga,2024,0,0,0,0
-Tonga,2028,0,0,0,0
-Trinidad and Tobago,2012,0,0,1,1
-Trinidad and Tobago,2016,0,0,0,0
-Trinidad and Tobago,2020,0,0,2,2
-Trinidad and Tobago,2024,0,0,1,1
-Trinidad and Tobago,2028,0,0,1,1
-Tunisia,2012,1,1,1,3
-Tunisia,2016,1,1,1,3
-Tunisia,2020,1,0,1,2
-Tunisia,2024,1,0,1,2
-Tunisia,2028,1,0,1,2
-Turkey,2012,2,2,3,7
-Turkey,2016,0,2,6,8
-Turkey,2020,2,3,8,13
-Turkey,2024,0,2,5,7
-Turkey,2028,2,2,4,8
-TurkeyÂ ,2012,0,0,0,0
-TurkeyÂ ,2016,0,0,0,0
-TurkeyÂ ,2020,0,0,0,0
-TurkeyÂ ,2024,0,0,0,0
-TurkeyÂ ,2028,0,0,0,0
-Turkmenistan,2012,0,0,0,0
-Turkmenistan,2016,0,0,0,0
-Turkmenistan,2020,0,0,0,0
-Turkmenistan,2024,0,0,0,0
-Turkmenistan,2028,0,0,0,0
-Uganda,2012,0,1,0,1
-Uganda,2016,0,1,1,2
-Uganda,2020,0,0,0,0
-Uganda,2024,0,0,1,1
-Uganda,2028,0,1,0,1
-Ukraine,2012,0,4,10,14
-Ukraine,2016,0,5,11,16
-Ukraine,2020,0,6,9,15
-Ukraine,2024,0,5,10,15
-Ukraine,2028,0,4,12,16
-Unified Team,2012,0,0,0,0
-Unified Team,2016,0,0,0,0
-Unified Team,2020,0,0,0,0
-Unified Team,2024,0,0,0,0
-Unified Team,2028,0,0,0,0
-United Arab Emirates,2012,0,0,0,0
-United Arab Emirates,2016,0,0,0,0
-United Arab Emirates,2020,0,0,0,0
-United Arab Emirates,2024,0,0,0,0
-United Arab Emirates,2028,0,0,0,0
-United States,2012,47,34,34,115
-United States,2016,42,38,36,116
-United States,2020,40,42,38,120
-United States,2024,44,38,38,120
-United States,2028,44,38,35,117
-United StatesÂ ,2012,0,0,0,0
-United StatesÂ ,2016,0,0,0,0
-United StatesÂ ,2020,0,0,0,0
-United StatesÂ ,2024,0,0,0,0
-United StatesÂ ,2028,0,0,0,0
-United Team of Germany,2012,0,0,0,0
-United Team of Germany,2016,0,0,0,0
-United Team of Germany,2020,0,0,0,0
-United Team of Germany,2024,0,0,0,0
-United Team of Germany,2028,0,0,0,0
-United Team of GermanyÂ ,2012,0,0,0,0
-United Team of GermanyÂ ,2016,0,0,0,0
-United Team of GermanyÂ ,2020,0,0,0,0
-United Team of GermanyÂ ,2024,0,0,0,0
-United Team of GermanyÂ ,2028,0,0,0,0
-Uruguay,2012,0,0,0,0
-Uruguay,2016,0,0,0,0
-Uruguay,2020,0,0,0,0
-Uruguay,2024,0,1,1,2
-Uruguay,2028,0,0,2,2
-UruguayÂ ,2012,0,0,0,0
-UruguayÂ ,2016,0,0,0,0
-UruguayÂ ,2020,0,0,0,0
-UruguayÂ ,2024,0,0,0,0
-UruguayÂ ,2028,0,0,0,0
-Uzbekistan,2012,9,0,2,11
-Uzbekistan,2016,10,3,2,15
-Uzbekistan,2020,12,0,2,14
-Uzbekistan,2024,12,2,7,21
-Uzbekistan,2028,12,0,3,15
-Venezuela,2012,0,3,2,5
-Venezuela,2016,0,3,2,5
-Venezuela,2020,0,3,2,5
-Venezuela,2024,0,3,0,3
-Venezuela,2028,0,3,1,4
-VenezuelaÂ ,2012,0,0,0,0
-VenezuelaÂ ,2016,0,0,0,0
-VenezuelaÂ ,2020,0,0,0,0
-VenezuelaÂ ,2024,0,0,0,0
-VenezuelaÂ ,2028,0,0,0,0
-Vietnam,2012,1,1,0,2
-Vietnam,2016,1,0,1,2
-Vietnam,2020,1,1,0,2
-Vietnam,2024,1,1,0,2
-Vietnam,2028,1,0,1,2
-Virgin Islands,2012,0,0,0,0
-Virgin Islands,2016,0,0,0,0
-Virgin Islands,2020,0,0,0,0
-Virgin Islands,2024,0,0,0,0
-Virgin Islands,2028,0,0,0,0
-West Germany,2012,15,12,15,42
-West Germany,2016,6,9,11,26
-West Germany,2020,10,17,20,47
-West Germany,2024,4,16,19,39
-West Germany,2028,11,14,20,45
-Yugoslavia,2012,4,4,6,14
-Yugoslavia,2016,4,4,6,14
-Yugoslavia,2020,6,4,6,16
-Yugoslavia,2024,5,3,8,16
-Yugoslavia,2028,4,3,6,13
-YugoslaviaÂ ,2012,0,0,0,0
-YugoslaviaÂ ,2016,0,0,0,0
-YugoslaviaÂ ,2020,0,0,0,0
-YugoslaviaÂ ,2024,0,0,0,0
-YugoslaviaÂ ,2028,0,0,0,0
-Zambia,2012,0,1,0,1
-Zambia,2016,0,0,1,1
-Zambia,2020,0,1,0,1
-Zambia,2024,0,0,1,1
-Zambia,2028,0,1,0,1
-Zimbabwe,2012,1,5,1,7
-Zimbabwe,2016,1,6,0,7
-Zimbabwe,2020,1,7,1,9
-Zimbabwe,2024,1,8,0,9
-Zimbabwe,2028,1,8,1,10
+Afghanistan',2012,0,0,0,0
+Afghanistan',2016,0,0,0,0
+Afghanistan',2020,0,0,0,0
+Afghanistan',2024,0,0,0,0
+Afghanistan',2028,0,0,0,0
+Albania',2012,0,0,0,0
+Albania',2016,0,0,0,0
+Albania',2020,0,0,0,0
+Albania',2024,0,0,0,0
+Albania',2028,0,0,0,0
+Algeria',2012,2,0,0,2
+Algeria',2016,0,0,0,0
+Algeria',2020,0,0,0,0
+Algeria',2024,1,0,0,1
+Algeria',2028,1,0,0,1
+Argentina',2012,1,1,2,4
+Argentina',2016,0,1,3,4
+Argentina',2020,2,1,3,6
+Argentina',2024,1,1,1,3
+Argentina',2028,1,1,2,4
+Armenia',2012,0,3,2,5
+Armenia',2016,1,5,3,9
+Armenia',2020,0,4,0,4
+Armenia',2024,0,5,1,6
+Armenia',2028,0,5,3,8
+Australasia',2012,0,0,0,0
+Australasia',2016,0,0,0,0
+Australasia',2020,0,0,0,0
+Australasia',2024,0,0,0,0
+Australasia',2028,0,0,0,0
+Australia',2012,16,14,18,48
+Australia',2016,13,14,19,46
+Australia',2020,14,17,17,48
+Australia',2024,15,16,16,47
+Australia',2028,15,12,18,45
+Austria',2012,1,1,2,4
+Austria',2016,1,1,3,5
+Austria',2020,1,0,2,3
+Austria',2024,1,1,2,4
+Austria',2028,1,1,3,5
+Azerbaijan',2012,2,13,3,18
+Azerbaijan',2016,2,8,3,13
+Azerbaijan',2020,2,2,3,7
+Azerbaijan',2024,2,15,3,20
+Azerbaijan',2028,2,13,3,18
+Bahamas',2012,2,1,0,3
+Bahamas',2016,2,0,0,2
+Bahamas',2020,2,0,0,2
+Bahamas',2024,2,1,0,3
+Bahamas',2028,2,0,0,2
+Bahrain',2012,0,1,1,2
+Bahrain',2016,3,1,1,5
+Bahrain',2020,0,1,1,2
+Bahrain',2024,4,1,1,6
+Bahrain',2028,0,1,1,2
+Barbados',2012,0,0,0,0
+Barbados',2016,0,0,0,0
+Barbados',2020,0,0,0,0
+Barbados',2024,0,0,0,0
+Barbados',2028,0,0,0,0
+Belarus',2012,0,6,5,11
+Belarus',2016,0,3,7,10
+Belarus',2020,0,4,8,12
+Belarus',2024,0,4,10,14
+Belarus',2028,1,4,9,14
+Belgium',2012,2,1,3,6
+Belgium',2016,1,1,3,5
+Belgium',2020,2,1,3,6
+Belgium',2024,3,1,5,9
+Belgium',2028,2,1,4,7
+Bermuda',2012,0,0,0,0
+Bermuda',2016,0,0,0,0
+Bermuda',2020,0,0,0,0
+Bermuda',2024,0,0,0,0
+Bermuda',2028,0,0,0,0
+Bohemia',2012,0,0,0,0
+Bohemia',2016,0,0,0,0
+Bohemia',2020,0,0,0,0
+Bohemia',2024,0,0,0,0
+Bohemia',2028,0,0,0,0
+Botswana',2012,1,0,1,2
+Botswana',2016,1,1,0,2
+Botswana',2020,1,0,1,2
+Botswana',2024,1,1,0,2
+Botswana',2028,1,0,1,2
+Brazil',2012,9,7,8,24
+Brazil',2016,7,8,7,22
+Brazil',2020,4,8,10,22
+Brazil',2024,8,8,9,25
+Brazil',2028,8,8,8,24
+British West Indies',2012,0,0,0,0
+British West Indies',2016,0,0,0,0
+British West Indies',2020,0,0,0,0
+British West Indies',2024,0,0,0,0
+British West Indies',2028,0,0,0,0
+Bulgaria',2012,2,1,1,4
+Bulgaria',2016,3,1,0,4
+Bulgaria',2020,2,1,1,4
+Bulgaria',2024,3,1,1,5
+Bulgaria',2028,3,1,2,6
+Burkina Faso',2012,0,0,0,0
+Burkina Faso',2016,0,0,0,0
+Burkina Faso',2020,0,0,0,0
+Burkina Faso',2024,0,0,0,0
+Burkina Faso',2028,0,0,0,0
+Burundi',2012,0,0,0,0
+Burundi',2016,0,0,0,0
+Burundi',2020,0,0,0,0
+Burundi',2024,0,0,0,0
+Burundi',2028,0,0,0,0
+Cabo Verde',2012,0,0,0,0
+Cabo Verde',2016,0,0,0,0
+Cabo Verde',2020,0,0,0,0
+Cabo Verde',2024,0,0,0,0
+Cabo Verde',2028,0,0,0,0
+Cameroon',2012,0,0,0,0
+Cameroon',2016,0,0,0,0
+Cameroon',2020,1,0,0,1
+Cameroon',2024,1,0,1,2
+Cameroon',2028,1,0,0,1
+Canada',2012,7,5,10,22
+Canada',2016,7,6,12,25
+Canada',2020,6,7,10,23
+Canada',2024,6,5,11,22
+Canada',2028,6,6,10,22
+Ceylon',2012,0,0,0,0
+Ceylon',2016,0,0,0,0
+Ceylon',2020,0,0,0,0
+Ceylon',2024,0,0,0,0
+Ceylon',2028,0,0,0,0
+Chile',2012,0,0,2,2
+Chile',2016,0,0,0,0
+Chile',2020,0,0,1,1
+Chile',2024,1,0,1,2
+Chile',2028,0,0,0,0
+China',2012,40,27,24,91
+China',2016,40,27,24,91
+China',2020,40,27,24,91
+China',2024,40,27,24,91
+China',2028,40,27,24,91
+Chinese Taipei',2012,1,0,5,6
+Chinese Taipei',2016,2,0,5,7
+Chinese Taipei',2020,2,0,5,7
+Chinese Taipei',2024,2,0,5,7
+Chinese Taipei',2028,2,0,5,7
+Colombia',2012,0,3,1,4
+Colombia',2016,0,3,1,4
+Colombia',2020,0,3,1,4
+Colombia',2024,0,3,1,4
+Colombia',2028,0,3,1,4
+Costa Rica',2012,1,0,2,3
+Costa Rica',2016,0,0,2,2
+Costa Rica',2020,1,0,2,3
+Costa Rica',2024,0,0,2,2
+Costa Rica',2028,1,0,2,3
+Croatia',2012,2,2,2,6
+Croatia',2016,4,2,1,7
+Croatia',2020,6,2,0,8
+Croatia',2024,4,2,2,8
+Croatia',2028,3,2,4,9
+Cuba',2012,4,3,1,8
+Cuba',2016,2,5,2,9
+Cuba',2020,2,4,4,10
+Cuba',2024,3,6,4,13
+Cuba',2028,3,6,1,10
+Cyprus',2012,0,0,0,0
+Cyprus',2016,0,0,0,0
+Cyprus',2020,0,0,0,0
+Cyprus',2024,0,0,0,0
+Cyprus',2028,0,0,0,0
+Czech Republic',2012,1,0,2,3
+Czech Republic',2016,2,0,2,4
+Czech Republic',2020,4,0,2,6
+Czech Republic',2024,1,0,2,3
+Czech Republic',2028,3,0,2,5
+Czechoslovakia',2012,4,4,7,15
+Czechoslovakia',2016,3,2,5,10
+Czechoslovakia',2020,3,3,2,8
+Czechoslovakia',2024,3,3,3,9
+Czechoslovakia',2028,4,2,6,12
+Denmark',2012,2,3,5,10
+Denmark',2016,2,4,5,11
+Denmark',2020,2,5,4,11
+Denmark',2024,2,4,5,11
+Denmark',2028,2,3,5,10
+Djibouti',2012,0,0,0,0
+Djibouti',2016,0,0,0,0
+Djibouti',2020,0,0,0,0
+Djibouti',2024,0,0,0,0
+Djibouti',2028,0,0,0,0
+Dominica',2012,0,0,0,0
+Dominica',2016,0,0,0,0
+Dominica',2020,0,0,0,0
+Dominica',2024,0,0,0,0
+Dominica',2028,0,0,0,0
+Dominican Republic',2012,1,3,2,6
+Dominican Republic',2016,1,2,1,4
+Dominican Republic',2020,0,2,0,2
+Dominican Republic',2024,0,3,0,3
+Dominican Republic',2028,1,4,0,5
+Ecuador',2012,3,2,2,7
+Ecuador',2016,2,3,2,7
+Ecuador',2020,4,3,2,9
+Ecuador',2024,3,4,2,9
+Ecuador',2028,5,4,2,11
+Egypt',2012,1,2,2,5
+Egypt',2016,1,0,4,5
+Egypt',2020,1,2,2,5
+Egypt',2024,1,0,2,3
+Egypt',2028,1,1,3,5
+Eritrea',2012,0,0,0,0
+Eritrea',2016,0,0,0,0
+Eritrea',2020,0,0,0,0
+Eritrea',2024,0,0,0,0
+Eritrea',2028,0,0,0,0
+Estonia',2012,1,0,0,1
+Estonia',2016,1,0,1,2
+Estonia',2020,1,0,0,1
+Estonia',2024,1,0,0,1
+Estonia',2028,1,0,0,1
+Ethiopia',2012,0,3,2,5
+Ethiopia',2016,2,2,4,8
+Ethiopia',2020,1,3,1,5
+Ethiopia',2024,2,2,1,5
+Ethiopia',2028,3,2,3,8
+FR Yugoslavia',2012,0,0,0,0
+FR Yugoslavia',2016,0,0,0,0
+FR Yugoslavia',2020,0,0,0,0
+FR Yugoslavia',2024,0,0,0,0
+FR Yugoslavia',2028,0,0,0,0
+Fiji',2012,0,1,1,2
+Fiji',2016,0,1,0,1
+Fiji',2020,0,1,1,2
+Fiji',2024,0,1,0,1
+Fiji',2028,0,1,1,2
+Finland',2012,0,0,2,2
+Finland',2016,0,0,1,1
+Finland',2020,0,0,1,1
+Finland',2024,0,0,2,2
+Finland',2028,0,0,2,2
+Formosa',2012,0,0,0,0
+Formosa',2016,0,0,0,0
+Formosa',2020,0,0,0,0
+Formosa',2024,0,0,0,0
+Formosa',2028,0,0,0,0
+France',2012,10,13,14,37
+France',2016,14,23,16,53
+France',2020,10,10,12,32
+France',2024,13,25,18,56
+France',2028,13,14,16,43
+Gabon',2012,0,0,0,0
+Gabon',2016,0,0,0,0
+Gabon',2020,0,0,0,0
+Gabon',2024,0,0,0,0
+Gabon',2028,0,0,0,0
+Georgia',2012,6,3,6,15
+Georgia',2016,4,3,1,8
+Georgia',2020,4,3,2,9
+Georgia',2024,4,3,3,10
+Georgia',2028,4,3,5,12
+Germany',2012,12,12,12,36
+Germany',2016,12,12,11,35
+Germany',2020,11,10,12,33
+Germany',2024,12,13,10,35
+Germany',2028,12,12,11,35
+Ghana',2012,0,0,1,1
+Ghana',2016,0,0,1,1
+Ghana',2020,0,0,1,1
+Ghana',2024,0,0,1,1
+Ghana',2028,0,0,1,1
+Great Britain',2012,12,18,22,52
+Great Britain',2016,13,20,24,57
+Great Britain',2020,17,20,21,58
+Great Britain',2024,20,21,20,61
+Great Britain',2028,21,20,21,62
+Greece',2012,3,0,5,8
+Greece',2016,2,0,4,6
+Greece',2020,1,0,5,6
+Greece',2024,2,0,4,6
+Greece',2028,2,0,5,7
+Grenada',2012,0,1,2,3
+Grenada',2016,0,0,1,1
+Grenada',2020,0,0,0,0
+Grenada',2024,0,1,0,1
+Grenada',2028,0,0,1,1
+Guatemala',2012,0,0,0,0
+Guatemala',2016,0,0,0,0
+Guatemala',2020,0,0,0,0
+Guatemala',2024,0,0,0,0
+Guatemala',2028,0,0,0,0
+Guyana',2012,0,0,0,0
+Guyana',2016,0,0,0,0
+Guyana',2020,0,0,0,0
+Guyana',2024,0,0,0,0
+Guyana',2028,0,0,0,0
+Haiti',2012,0,0,0,0
+Haiti',2016,0,0,0,0
+Haiti',2020,0,0,0,0
+Haiti',2024,0,0,0,0
+Haiti',2028,0,0,0,0
+Hong Kong',2012,2,1,1,4
+Hong Kong',2016,1,0,0,1
+Hong Kong',2020,0,2,1,3
+Hong Kong',2024,0,0,2,2
+Hong Kong',2028,1,1,3,5
+Hungary',2012,7,5,5,17
+Hungary',2016,7,5,6,18
+Hungary',2020,6,7,5,18
+Hungary',2024,7,8,6,21
+Hungary',2028,7,6,6,19
+Iceland',2012,0,1,0,1
+Iceland',2016,0,0,1,1
+Iceland',2020,0,0,1,1
+Iceland',2024,0,1,0,1
+Iceland',2028,0,1,0,1
+Independent Olympic Athletes',2012,0,0,0,0
+Independent Olympic Athletes',2016,0,0,0,0
+Independent Olympic Athletes',2020,0,0,0,0
+Independent Olympic Athletes',2024,0,0,0,0
+Independent Olympic Athletes',2028,0,0,0,0
+Independent Olympic Participants',2012,0,0,0,0
+Independent Olympic Participants',2016,0,0,0,0
+Independent Olympic Participants',2020,0,0,0,0
+Independent Olympic Participants',2024,0,0,0,0
+Independent Olympic Participants',2028,0,0,0,0
+India',2012,0,2,3,5
+India',2016,0,1,4,5
+India',2020,0,2,6,8
+India',2024,0,1,4,5
+India',2028,0,2,5,7
+Indonesia',2012,1,0,1,2
+Indonesia',2016,2,0,1,3
+Indonesia',2020,1,0,1,2
+Indonesia',2024,1,0,1,2
+Indonesia',2028,1,0,1,2
+Iran',2012,4,1,3,8
+Iran',2016,2,4,2,8
+Iran',2020,3,3,2,8
+Iran',2024,3,3,3,9
+Iran',2028,3,4,2,9
+Iraq',2012,0,0,0,0
+Iraq',2016,0,0,0,0
+Iraq',2020,0,0,0,0
+Iraq',2024,0,0,0,0
+Iraq',2028,0,0,0,0
+Ireland',2012,1,2,1,4
+Ireland',2016,1,1,3,5
+Ireland',2020,1,1,2,4
+Ireland',2024,0,1,1,2
+Ireland',2028,2,1,3,6
+Israel',2012,1,5,1,7
+Israel',2016,1,5,1,7
+Israel',2020,1,5,1,7
+Israel',2024,1,5,1,7
+Israel',2028,1,5,1,7
+Italy',2012,10,13,14,37
+Italy',2016,9,11,16,36
+Italy',2020,10,14,14,38
+Italy',2024,10,12,13,35
+Italy',2028,11,13,15,39
+Ivory Coast',2012,1,0,1,2
+Ivory Coast',2016,0,0,1,1
+Ivory Coast',2020,0,0,1,1
+Ivory Coast',2024,1,0,1,2
+Ivory Coast',2028,0,0,1,1
+Jamaica',2012,2,1,3,6
+Jamaica',2016,1,1,4,6
+Jamaica',2020,1,2,2,5
+Jamaica',2024,3,2,4,9
+Jamaica',2028,2,1,2,5
+Japan',2012,15,13,13,41
+Japan',2016,14,14,11,39
+Japan',2020,22,13,13,48
+Japan',2024,22,15,14,51
+Japan',2028,19,14,14,47
+Jordan',2012,0,1,1,2
+Jordan',2016,0,1,0,1
+Jordan',2020,0,1,1,2
+Jordan',2024,0,1,0,1
+Jordan',2028,0,1,1,2
+Kazakhstan',2012,1,3,3,7
+Kazakhstan',2016,0,0,1,1
+Kazakhstan',2020,0,2,2,4
+Kazakhstan',2024,0,1,8,9
+Kazakhstan',2028,0,1,9,10
+Kenya',2012,6,5,4,15
+Kenya',2016,3,6,2,11
+Kenya',2020,6,3,4,13
+Kenya',2024,4,3,4,11
+Kenya',2028,4,5,3,12
+Kosovo',2012,2,1,1,4
+Kosovo',2016,0,1,1,2
+Kosovo',2020,1,1,1,3
+Kosovo',2024,1,1,1,3
+Kosovo',2028,1,1,1,3
+Kuwait',2012,0,0,1,1
+Kuwait',2016,0,0,1,1
+Kuwait',2020,0,0,1,1
+Kuwait',2024,0,0,1,1
+Kuwait',2028,0,0,1,1
+Kyrgyzstan',2012,0,1,2,3
+Kyrgyzstan',2016,0,0,4,4
+Kyrgyzstan',2020,0,0,2,2
+Kyrgyzstan',2024,0,1,4,5
+Kyrgyzstan',2028,0,2,3,5
+Latvia',2012,1,0,1,2
+Latvia',2016,1,0,1,2
+Latvia',2020,1,0,1,2
+Latvia',2024,1,0,0,1
+Latvia',2028,1,0,0,1
+Lebanon',2012,0,0,0,0
+Lebanon',2016,0,0,1,1
+Lebanon',2020,0,0,0,0
+Lebanon',2024,0,0,1,1
+Lebanon',2028,0,0,0,0
+Lithuania',2012,0,3,2,5
+Lithuania',2016,0,0,2,2
+Lithuania',2020,0,1,2,3
+Lithuania',2024,0,1,2,3
+Lithuania',2028,0,2,2,4
+Luxembourg',2012,0,1,0,1
+Luxembourg',2016,1,0,0,1
+Luxembourg',2020,0,1,0,1
+Luxembourg',2024,1,0,0,1
+Luxembourg',2028,0,1,0,1
+Macedonia',2012,0,0,0,0
+Macedonia',2016,0,0,0,0
+Macedonia',2020,0,0,0,0
+Macedonia',2024,0,0,0,0
+Macedonia',2028,0,0,0,0
+Malaysia',2012,0,2,1,3
+Malaysia',2016,0,1,1,2
+Malaysia',2020,0,3,1,4
+Malaysia',2024,0,2,0,2
+Malaysia',2028,0,0,1,1
+Mauritius',2012,0,0,0,0
+Mauritius',2016,0,0,0,0
+Mauritius',2020,0,0,0,0
+Mauritius',2024,0,0,0,0
+Mauritius',2028,0,0,0,0
+Mexico',2012,1,2,2,5
+Mexico',2016,1,2,4,7
+Mexico',2020,0,2,2,4
+Mexico',2024,0,1,3,4
+Mexico',2028,0,2,3,5
+Mixed team',2012,8,5,6,19
+Mixed team',2016,2,1,1,4
+Mixed team',2020,8,5,6,19
+Mixed team',2024,2,1,1,4
+Mixed team',2028,8,5,6,19
+Moldova',2012,0,1,3,4
+Moldova',2016,0,0,3,3
+Moldova',2020,0,0,3,3
+Moldova',2024,0,1,3,4
+Moldova',2028,0,1,3,4
+Mongolia',2012,1,1,1,3
+Mongolia',2016,1,2,1,4
+Mongolia',2020,0,2,3,5
+Mongolia',2024,0,1,1,2
+Mongolia',2028,0,1,2,3
+Montenegro',2012,0,0,0,0
+Montenegro',2016,0,0,0,0
+Montenegro',2020,0,0,0,0
+Montenegro',2024,0,0,0,0
+Montenegro',2028,0,0,0,0
+Morocco',2012,0,0,0,0
+Morocco',2016,0,1,1,2
+Morocco',2020,1,0,1,2
+Morocco',2024,1,0,1,2
+Morocco',2028,0,0,0,0
+Mozambique',2012,0,0,0,0
+Mozambique',2016,0,0,0,0
+Mozambique',2020,0,0,0,0
+Mozambique',2024,0,0,0,0
+Mozambique',2028,0,0,0,0
+Namibia',2012,0,1,0,1
+Namibia',2016,0,1,0,1
+Namibia',2020,0,1,0,1
+Namibia',2024,0,1,0,1
+Namibia',2028,0,1,0,1
+Netherlands Antilles',2012,0,0,0,0
+Netherlands Antilles',2016,0,0,0,0
+Netherlands Antilles',2020,0,0,0,0
+Netherlands Antilles',2024,0,0,0,0
+Netherlands Antilles',2028,0,0,0,0
+Netherlands',2012,12,9,11,32
+Netherlands',2016,12,7,10,29
+Netherlands',2020,12,8,12,32
+Netherlands',2024,13,8,11,32
+Netherlands',2028,12,8,11,31
+New Zealand',2012,8,8,4,20
+New Zealand',2016,8,5,4,17
+New Zealand',2020,8,5,4,17
+New Zealand',2024,9,6,6,21
+New Zealand',2028,8,4,5,17
+Niger',2012,0,0,0,0
+Niger',2016,0,0,0,0
+Niger',2020,0,0,0,0
+Niger',2024,0,0,0,0
+Niger',2028,0,0,0,0
+Nigeria',2012,2,0,1,3
+Nigeria',2016,1,1,2,4
+Nigeria',2020,0,0,0,0
+Nigeria',2024,0,0,1,1
+Nigeria',2028,0,0,2,2
+North Korea',2012,0,0,2,2
+North Korea',2016,0,0,2,2
+North Korea',2020,0,0,2,2
+North Korea',2024,0,0,2,2
+North Korea',2028,0,0,3,3
+North Macedonia',2012,0,0,0,0
+North Macedonia',2016,0,0,0,0
+North Macedonia',2020,0,0,0,0
+North Macedonia',2024,0,0,0,0
+North Macedonia',2028,0,0,0,0
+Norway',2012,3,4,2,9
+Norway',2016,3,0,2,5
+Norway',2020,1,1,2,4
+Norway',2024,3,2,3,8
+Norway',2028,4,2,2,8
+Pakistan',2012,1,0,0,1
+Pakistan',2016,1,0,0,1
+Pakistan',2020,1,0,0,1
+Pakistan',2024,1,0,0,1
+Pakistan',2028,1,0,0,1
+Panama',2012,1,1,0,2
+Panama',2016,0,1,0,1
+Panama',2020,1,1,0,2
+Panama',2024,0,1,0,1
+Panama',2028,1,1,0,2
+Paraguay',2012,0,0,0,0
+Paraguay',2016,0,0,0,0
+Paraguay',2020,0,0,0,0
+Paraguay',2024,0,0,0,0
+Paraguay',2028,0,0,0,0
+Peru',2012,0,0,1,1
+Peru',2016,0,0,1,1
+Peru',2020,0,1,1,2
+Peru',2024,0,1,1,2
+Peru',2028,0,1,1,2
+Philippines',2012,2,0,1,3
+Philippines',2016,3,0,0,3
+Philippines',2020,3,0,1,4
+Philippines',2024,3,0,2,5
+Philippines',2028,3,0,1,4
+Poland',2012,0,4,3,7
+Poland',2016,2,3,5,10
+Poland',2020,1,4,5,10
+Poland',2024,2,4,5,11
+Poland',2028,2,4,5,11
+Portugal',2012,1,1,0,2
+Portugal',2016,1,1,1,3
+Portugal',2020,1,1,1,3
+Portugal',2024,1,1,1,3
+Portugal',2028,1,1,1,3
+Puerto Rico',2012,0,1,2,3
+Puerto Rico',2016,1,0,0,1
+Puerto Rico',2020,1,0,0,1
+Puerto Rico',2024,0,1,2,3
+Puerto Rico',2028,0,0,2,2
+Qatar',2012,2,1,1,4
+Qatar',2016,0,1,0,1
+Qatar',2020,2,0,1,3
+Qatar',2024,0,0,1,1
+Qatar',2028,3,1,1,5
+ROC',2012,0,0,0,0
+ROC',2016,0,0,0,0
+ROC',2020,0,0,0,0
+ROC',2024,0,0,0,0
+ROC',2028,0,0,0,0
+Refugee Olympic Team',2012,0,0,0,0
+Refugee Olympic Team',2016,0,0,0,0
+Refugee Olympic Team',2020,0,0,0,0
+Refugee Olympic Team',2024,0,0,0,0
+Refugee Olympic Team',2028,0,0,0,0
+Romania',2012,3,3,0,6
+Romania',2016,2,4,1,7
+Romania',2020,2,3,0,5
+Romania',2024,2,4,0,6
+Romania',2028,2,4,0,6
+Russia',2012,24,5,38,67
+Russia',2016,29,14,28,71
+Russia',2020,31,8,19,58
+Russia',2024,27,0,29,56
+Russia',2028,22,7,27,56
+Russian Empire',2012,0,0,0,0
+Russian Empire',2016,0,0,0,0
+Russian Empire',2020,0,0,0,0
+Russian Empire',2024,0,0,0,0
+Russian Empire',2028,0,0,0,0
+Saint Lucia',2012,0,0,0,0
+Saint Lucia',2016,0,0,0,0
+Saint Lucia',2020,0,0,0,0
+Saint Lucia',2024,0,0,0,0
+Saint Lucia',2028,0,0,0,0
+Samoa',2012,0,0,0,0
+Samoa',2016,0,0,0,0
+Samoa',2020,0,0,0,0
+Samoa',2024,0,0,0,0
+Samoa',2028,0,0,0,0
+San Marino',2012,0,0,0,0
+San Marino',2016,0,0,0,0
+San Marino',2020,0,0,0,0
+San Marino',2024,0,0,0,0
+San Marino',2028,0,0,0,0
+Saudi Arabia',2012,0,0,0,0
+Saudi Arabia',2016,0,1,0,1
+Saudi Arabia',2020,0,0,0,0
+Saudi Arabia',2024,0,1,0,1
+Saudi Arabia',2028,0,0,0,0
+Senegal',2012,0,0,0,0
+Senegal',2016,0,0,0,0
+Senegal',2020,0,0,0,0
+Senegal',2024,0,0,0,0
+Senegal',2028,0,0,0,0
+Serbia and Montenegro',2012,0,0,0,0
+Serbia and Montenegro',2016,0,0,0,0
+Serbia and Montenegro',2020,0,0,0,0
+Serbia and Montenegro',2024,0,0,0,0
+Serbia and Montenegro',2028,0,0,0,0
+Serbia',2012,2,4,2,8
+Serbia',2016,1,1,3,5
+Serbia',2020,0,1,4,5
+Serbia',2024,0,4,0,4
+Serbia',2028,0,1,3,4
+Singapore',2012,0,0,2,2
+Singapore',2016,0,0,0,0
+Singapore',2020,1,0,2,3
+Singapore',2024,0,0,2,2
+Singapore',2028,0,0,1,1
+Slovakia',2012,0,0,0,0
+Slovakia',2016,2,0,3,5
+Slovakia',2020,0,0,0,0
+Slovakia',2024,2,0,1,3
+Slovakia',2028,2,0,0,2
+Slovenia',2012,2,2,1,5
+Slovenia',2016,2,1,0,3
+Slovenia',2020,2,2,1,5
+Slovenia',2024,2,1,1,4
+Slovenia',2028,2,1,2,5
+South Africa',2012,3,3,3,9
+South Africa',2016,2,1,0,3
+South Africa',2020,1,2,1,4
+South Africa',2024,1,5,2,8
+South Africa',2028,2,2,1,5
+South Korea',2012,18,7,10,35
+South Korea',2016,17,8,10,35
+South Korea',2020,12,9,10,31
+South Korea',2024,11,8,10,29
+South Korea',2028,14,8,10,32
+Soviet Union',2012,55,31,46,132
+Soviet Union',2016,55,31,46,132
+Soviet Union',2020,55,31,46,132
+Soviet Union',2024,55,31,46,132
+Soviet Union',2028,55,31,46,132
+Spain',2012,4,4,8,16
+Spain',2016,5,3,9,17
+Spain',2020,4,5,9,18
+Spain',2024,5,3,10,18
+Spain',2028,4,4,10,18
+Sri Lanka',2012,0,0,0,0
+Sri Lanka',2016,0,0,0,0
+Sri Lanka',2020,0,0,0,0
+Sri Lanka',2024,0,0,0,0
+Sri Lanka',2028,0,0,0,0
+Sudan',2012,0,0,0,0
+Sudan',2016,0,0,0,0
+Sudan',2020,0,0,0,0
+Sudan',2024,0,0,0,0
+Sudan',2028,0,0,0,0
+Suriname',2012,0,0,0,0
+Suriname',2016,0,0,0,0
+Suriname',2020,0,0,0,0
+Suriname',2024,0,0,0,0
+Suriname',2028,0,0,0,0
+Sweden',2012,4,3,2,9
+Sweden',2016,1,3,4,8
+Sweden',2020,1,4,3,8
+Sweden',2024,2,5,2,9
+Sweden',2028,3,5,2,10
+Switzerland',2012,2,1,2,5
+Switzerland',2016,3,3,1,7
+Switzerland',2020,2,3,3,8
+Switzerland',2024,1,2,5,8
+Switzerland',2028,2,2,4,8
+Syria',2012,1,0,1,2
+Syria',2016,0,0,1,1
+Syria',2020,0,0,1,1
+Syria',2024,1,0,1,2
+Syria',2028,0,0,1,1
+Taiwan',2012,0,0,0,0
+Taiwan',2016,0,0,0,0
+Taiwan',2020,0,0,0,0
+Taiwan',2024,0,0,0,0
+Taiwan',2028,0,0,0,0
+Tajikistan',2012,0,0,0,0
+Tajikistan',2016,1,0,2,3
+Tajikistan',2020,0,0,1,1
+Tajikistan',2024,0,0,1,1
+Tajikistan',2028,1,0,2,3
+Tanzania',2012,0,0,0,0
+Tanzania',2016,0,0,0,0
+Tanzania',2020,0,0,0,0
+Tanzania',2024,0,0,0,0
+Tanzania',2028,0,0,0,0
+Thailand',2012,2,1,3,6
+Thailand',2016,1,3,2,6
+Thailand',2020,1,1,2,4
+Thailand',2024,2,2,3,7
+Thailand',2028,1,2,2,5
+Togo',2012,0,0,0,0
+Togo',2016,0,0,0,0
+Togo',2020,0,0,0,0
+Togo',2024,0,0,0,0
+Togo',2028,0,0,0,0
+Tonga',2012,0,0,0,0
+Tonga',2016,0,0,0,0
+Tonga',2020,0,0,0,0
+Tonga',2024,0,0,0,0
+Tonga',2028,0,0,0,0
+Trinidad and Tobago',2012,0,0,1,1
+Trinidad and Tobago',2016,0,0,0,0
+Trinidad and Tobago',2020,0,0,2,2
+Trinidad and Tobago',2024,0,0,1,1
+Trinidad and Tobago',2028,0,0,1,1
+Tunisia',2012,1,1,1,3
+Tunisia',2016,1,1,1,3
+Tunisia',2020,1,0,1,2
+Tunisia',2024,1,0,1,2
+Tunisia',2028,1,0,1,2
+Turkey',2012,2,2,4,8
+Turkey',2016,1,2,6,9
+Turkey',2020,1,2,8,11
+Turkey',2024,2,3,7,12
+Turkey',2028,1,2,5,8
+Turkmenistan',2012,0,0,0,0
+Turkmenistan',2016,0,0,0,0
+Turkmenistan',2020,0,0,0,0
+Turkmenistan',2024,0,0,0,0
+Turkmenistan',2028,0,0,0,0
+Uganda',2012,0,1,0,1
+Uganda',2016,0,1,1,2
+Uganda',2020,0,0,0,0
+Uganda',2024,0,0,1,1
+Uganda',2028,0,1,0,1
+Ukraine',2012,0,4,10,14
+Ukraine',2016,0,5,11,16
+Ukraine',2020,0,6,9,15
+Ukraine',2024,0,5,10,15
+Ukraine',2028,0,4,12,16
+Unified Team',2012,0,0,0,0
+Unified Team',2016,0,0,0,0
+Unified Team',2020,0,0,0,0
+Unified Team',2024,0,0,0,0
+Unified Team',2028,0,0,0,0
+United Arab Emirates',2012,0,0,0,0
+United Arab Emirates',2016,0,0,0,0
+United Arab Emirates',2020,0,0,0,0
+United Arab Emirates',2024,0,0,0,0
+United Arab Emirates',2028,0,0,0,0
+United States',2012,46,35,30,111
+United States',2016,42,40,37,119
+United States',2020,40,36,35,111
+United States',2024,44,38,38,120
+United States',2028,43,39,31,113
+Uruguay',2012,0,1,0,1
+Uruguay',2016,0,1,0,1
+Uruguay',2020,0,1,1,2
+Uruguay',2024,0,1,2,3
+Uruguay',2028,0,1,1,2
+Uzbekistan',2012,9,0,2,11
+Uzbekistan',2016,10,3,2,15
+Uzbekistan',2020,12,0,2,14
+Uzbekistan',2024,12,2,7,21
+Uzbekistan',2028,12,0,3,15
+Venezuela',2012,1,3,2,6
+Venezuela',2016,1,3,2,6
+Venezuela',2020,1,3,2,6
+Venezuela',2024,1,3,0,4
+Venezuela',2028,1,3,1,5
+Vietnam',2012,1,1,0,2
+Vietnam',2016,1,0,1,2
+Vietnam',2020,1,1,0,2
+Vietnam',2024,1,1,0,2
+Vietnam',2028,1,0,1,2
+Virgin Islands',2012,0,0,0,0
+Virgin Islands',2016,0,0,0,0
+Virgin Islands',2020,0,0,0,0
+Virgin Islands',2024,0,0,0,0
+Virgin Islands',2028,0,0,0,0
+Yugoslavia',2012,4,4,7,15
+Yugoslavia',2016,3,4,7,14
+Yugoslavia',2020,6,4,7,17
+Yugoslavia',2024,4,4,7,15
+Yugoslavia',2028,4,4,8,16
+Zambia',2012,0,1,0,1
+Zambia',2016,0,0,1,1
+Zambia',2020,0,1,0,1
+Zambia',2024,0,0,1,1
+Zambia',2028,0,1,0,1
+Zimbabwe',2012,1,5,1,7
+Zimbabwe',2016,1,6,0,7
+Zimbabwe',2020,1,7,1,9
+Zimbabwe',2024,1,8,0,9
+Zimbabwe',2028,1,8,1,10
