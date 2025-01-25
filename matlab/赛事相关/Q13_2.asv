@@ -1,0 +1,17 @@
+clc
+clear
+load("R.mat")
+load("medal.mat")
+Country = unique(medal.NOC); %所有国家
+record = [];
+for i=1:size(R,1)
+    temp = R{i,1};
+    record(i,1) = sum(sum(abs(temp)));
+end
+
+new_set(:,1) = Country;
+for i=1:size(record,1)
+    new_set{i,2} = record(i);
+end
+
+new_set = sort(new_set);
