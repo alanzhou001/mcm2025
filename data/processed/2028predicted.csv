@@ -1,0 +1,162 @@
+NOC,Year,Gold_Predicted,Silver_Predicted,Bronze_Predicted,Total_Predicted
+Soviet Union,2028,55,31,46,132
+United States,2028,43,39,31,113
+China,2028,40,27,24,91
+Great Britain,2028,21,20,21,62
+Russia,2028,22,7,27,56
+Japan,2028,19,14,14,47
+Australia,2028,15,12,18,45
+France,2028,13,14,16,43
+Italy,2028,11,13,15,39
+Germany,2028,12,12,11,35
+South Korea,2028,14,8,10,32
+Netherlands,2028,12,8,11,31
+Brazil,2028,8,8,8,24
+Canada,2028,6,6,10,22
+Mixed team,2028,8,5,6,19
+Hungary,2028,7,6,6,19
+Spain,2028,4,4,10,18
+Azerbaijan,2028,2,13,3,18
+New Zealand,2028,8,4,5,17
+Ukraine,2028,0,4,12,16
+Yugoslavia,2028,4,4,8,16
+Uzbekistan,2028,12,0,3,15
+Belarus,2028,1,4,9,14
+Georgia,2028,4,3,5,12
+Kenya,2028,4,5,3,12
+Czechoslovakia,2028,4,2,6,12
+Poland,2028,2,4,5,11
+Ecuador,2028,5,4,2,11
+Zimbabwe,2028,1,8,1,10
+Cuba,2028,3,6,1,10
+Denmark,2028,2,3,5,10
+Kazakhstan,2028,0,1,9,10
+Sweden,2028,3,5,2,10
+Croatia,2028,3,2,4,9
+Iran,2028,3,4,2,9
+Norway,2028,4,2,2,8
+Switzerland,2028,2,2,4,8
+Ethiopia,2028,3,2,3,8
+Turkey,2028,1,2,5,8
+Armenia,2028,0,5,3,8
+Israel,2028,1,5,1,7
+India,2028,0,2,5,7
+Chinese Taipei,2028,2,0,5,7
+Belgium,2028,2,1,4,7
+Greece,2028,2,0,5,7
+Ireland,2028,2,1,3,6
+Romania,2028,2,4,0,6
+Bulgaria,2028,3,1,2,6
+Jamaica,2028,2,1,2,5
+Mexico,2028,0,2,3,5
+Hong Kong,2028,1,1,3,5
+Qatar,2028,3,1,1,5
+Slovenia,2028,2,1,2,5
+South Africa,2028,2,2,1,5
+Thailand,2028,1,2,2,5
+Venezuela,2028,1,3,1,5
+Kyrgyzstan,2028,0,2,3,5
+Czech Republic,2028,3,0,2,5
+Dominican Republic,2028,1,4,0,5
+Egypt,2028,1,1,3,5
+Austria,2028,1,1,3,5
+Colombia,2028,0,3,1,4
+Argentina,2028,1,1,2,4
+Philippines,2028,3,0,1,4
+Moldova,2028,0,1,3,4
+Lithuania,2028,0,2,2,4
+Serbia,2028,0,1,3,4
+Mongolia,2028,0,1,2,3
+Portugal,2028,1,1,1,3
+Costa Rica,2028,1,0,2,3
+Tajikistan,2028,1,0,2,3
+North Korea,2028,0,0,3,3
+Kosovo,2028,1,1,1,3
+Bahamas,2028,2,0,0,2
+Slovakia,2028,2,0,0,2
+Botswana,2028,1,0,1,2
+Puerto Rico,2028,0,0,2,2
+Peru,2028,0,1,1,2
+Panama,2028,1,1,0,2
+Nigeria,2028,0,0,2,2
+Tunisia,2028,1,0,1,2
+Bahrain,2028,0,1,1,2
+Indonesia,2028,1,0,1,2
+Finland,2028,0,0,2,2
+Fiji,2028,0,1,1,2
+Uruguay,2028,0,1,1,2
+Vietnam,2028,1,0,1,2
+Jordan,2028,0,1,1,2
+Iceland,2028,0,1,0,1
+Kuwait,2028,0,0,1,1
+Cameroon,2028,1,0,0,1
+Ivory Coast,2028,0,0,1,1
+Syria,2028,0,0,1,1
+Zambia,2028,0,1,0,1
+Estonia,2028,1,0,0,1
+Luxembourg,2028,0,1,0,1
+Algeria,2028,1,0,0,1
+Pakistan,2028,1,0,0,1
+Grenada,2028,0,0,1,1
+Namibia,2028,0,1,0,1
+Trinidad and Tobago,2028,0,0,1,1
+Singapore,2028,0,0,1,1
+Ghana,2028,0,0,1,1
+Latvia,2028,1,0,0,1
+Malaysia,2028,0,0,1,1
+Uganda,2028,0,1,0,1
+Barbados,2028,0,0,0,0
+Sudan,2028,0,0,0,0
+Unified Team,2028,0,0,0,0
+Cabo Verde,2028,0,0,0,0
+Burundi,2028,0,0,0,0
+Burkina Faso,2028,0,0,0,0
+British West Indies,2028,0,0,0,0
+Sri Lanka,2028,0,0,0,0
+Turkmenistan,2028,0,0,0,0
+Suriname,2028,0,0,0,0
+Bohemia,2028,0,0,0,0
+Bermuda,2028,0,0,0,0
+Tanzania,2028,0,0,0,0
+United Arab Emirates,2028,0,0,0,0
+Taiwan,2028,0,0,0,0
+Tonga,2028,0,0,0,0
+Virgin Islands,2028,0,0,0,0
+Australasia,2028,0,0,0,0
+Togo,2028,0,0,0,0
+Guatemala,2028,0,0,0,0
+Serbia and Montenegro,2028,0,0,0,0
+Eritrea,2028,0,0,0,0
+Djibouti,2028,0,0,0,0
+Dominica,2028,0,0,0,0
+Mauritius,2028,0,0,0,0
+Macedonia,2028,0,0,0,0
+Lebanon,2028,0,0,0,0
+Albania,2028,0,0,0,0
+FR Yugoslavia,2028,0,0,0,0
+Morocco,2028,0,0,0,0
+Iraq,2028,0,0,0,0
+Formosa,2028,0,0,0,0
+Gabon,2028,0,0,0,0
+Independent Olympic Participants,2028,0,0,0,0
+Independent Olympic Athletes,2028,0,0,0,0
+Haiti,2028,0,0,0,0
+Montenegro,2028,0,0,0,0
+Mozambique,2028,0,0,0,0
+Senegal,2028,0,0,0,0
+Refugee Olympic Team,2028,0,0,0,0
+Saudi Arabia,2028,0,0,0,0
+San Marino,2028,0,0,0,0
+Samoa,2028,0,0,0,0
+Saint Lucia,2028,0,0,0,0
+Russian Empire,2028,0,0,0,0
+Ceylon,2028,0,0,0,0
+ROC,2028,0,0,0,0
+Netherlands Antilles,2028,0,0,0,0
+Chile,2028,0,0,0,0
+Guyana,2028,0,0,0,0
+Paraguay,2028,0,0,0,0
+North Macedonia,2028,0,0,0,0
+Niger,2028,0,0,0,0
+Cyprus,2028,0,0,0,0
+Afghanistan,2028,0,0,0,0
